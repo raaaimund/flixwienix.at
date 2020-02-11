@@ -1,0 +1,43 @@
+export default {
+  srcDir: 'src/',
+  head: {
+    title: 'FLIXwienix in Paris',
+    meta: [
+      { charset: 'utf-8' },
+      { name: 'viewport', content: 'width=device-width, initial-scale=1' }
+    ],
+    link: [
+      { rel: 'stylesheet', href: '//fonts.googleapis.com/css?family=Roboto:400,500,700,400italic|Material+Icons' }
+    ]
+  },
+  buildModules: [
+    '@nuxtjs/vuetify',
+  ],
+  plugins: [
+    { src: '~/plugins/vue2-leaflet', ssr: false }
+  ],
+  build: {
+    transpile: [/^vuetify/],
+    extend(config) {
+      config.module.rules.push({
+        test: /\.md$/,
+        loader: 'frontmatter-markdown-loader'
+      })
+    }
+  },
+  vuetify: {
+    theme: {
+      themes: {
+        light: {
+          primary: '#73d700',
+          secondary: '#5cac00',
+          accent: '#ffad00',
+          error: '#FF5252',
+        },
+      },
+    },
+    icons: {
+      iconfont: 'mdiSvg',
+    },
+  }
+}

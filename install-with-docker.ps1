@@ -1,0 +1,1 @@
+docker rm yarn; docker run --name yarn -w /usr/src/app -v ${PWD}:/usr/src/app node:13.8.0-alpine yarn install
