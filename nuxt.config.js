@@ -1,7 +1,9 @@
+import Mode from 'frontmatter-markdown-loader/mode'
+
 export default {
   srcDir: 'src/',
   head: {
-    title: 'FLIXwienix in Paris',
+    title: 'FLIXwienix nach Paris',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' }
@@ -14,14 +16,18 @@ export default {
     '@nuxtjs/vuetify',
   ],
   plugins: [
-    { src: '~/plugins/vue2-leaflet', ssr: false }
+    { src: '~/plugins/vue2-leaflet', ssr: false },
+    { src: '~/plugins/frontmatter-markdown-loader' }
   ],
   build: {
     transpile: [/^vuetify/],
     extend(config) {
       config.module.rules.push({
         test: /\.md$/,
-        loader: 'frontmatter-markdown-loader'
+        loader: 'frontmatter-markdown-loader',
+        options: {
+          mode: [Mode.VUE_COMPONENT]
+        }
       })
     }
   },
