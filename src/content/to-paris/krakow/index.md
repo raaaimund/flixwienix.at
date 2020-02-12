@@ -7,4 +7,4 @@ city: krakow
 icon: mdi-account
 ---
 
-# welcome to krakow
+# Dzień dobry Kraków
