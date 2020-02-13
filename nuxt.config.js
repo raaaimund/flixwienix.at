@@ -47,11 +47,4 @@ export default {
       iconfont: 'mdiSvg',
     },
   },
-  generate: {
-    routes() {
-      return glob
-        .sync("**/*.md", { cwd: 'src/content' })
-        .map(filepath => `/${filepath.replace(".md", "")}`);
-    }
-  }
 }
