@@ -51,7 +51,7 @@ export default {
     routes() {
       return glob
         .sync("**/*.md", { cwd: 'src/content' })
-        .map(filepath => `/${filepath.substring(filepath.length - 3)}`);
+        .map(filepath => `/${filepath.substring(0, filepath.length - 3)}`);
     }
   }
 }
