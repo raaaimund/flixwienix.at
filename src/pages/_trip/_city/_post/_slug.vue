@@ -3,19 +3,18 @@
 </template>
 
 <script>
+const post = null;
+
 export default {
   layout: "default",
   asyncData({ params }) {
     return {
-      tripParam: params.trip,
-      cityParam: params.city,
-      postParam: params.post,
       attributes: {},
       post: null
     };
   },
   created() {
-    const markdown = require(`~/content/${this.tripParam}/${this.cityParam}/${this.postParam}.md`);
+    const markdown = require(`~/content/${this.$route.params.trip}/${this.$route.params.city}/${this.$route.params.post}.md`);
     this.attributes = markdown.attributes;
     this.post = markdown.vue.component;
   }

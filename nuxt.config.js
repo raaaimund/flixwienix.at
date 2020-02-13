@@ -1,4 +1,5 @@
 import Mode from 'frontmatter-markdown-loader/mode'
+import glob from 'glob'
 
 export default {
   srcDir: 'src/',
@@ -45,5 +46,12 @@ export default {
     icons: {
       iconfont: 'mdiSvg',
     },
+  },
+  generate: {
+    routes() {
+      return glob
+        .sync("**/*.md", { cwd: 'src/content' })
+        .map(filepath => `/${filepath.replace(".md", "")}`);
+    }
   }
 }
