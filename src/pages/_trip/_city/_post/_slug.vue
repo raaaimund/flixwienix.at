@@ -3,11 +3,9 @@
 </template>
 
 <script>
-const post = null;
-
 export default {
   layout: "default",
-  asyncData({ params }) {
+  asyncData() {
     return {
       attributes: {},
       post: null
