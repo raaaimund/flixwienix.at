@@ -1,14 +1,40 @@
 <template>
-  <component :is="post" />
+  <v-container>
+    <v-row>
+      <v-col cols="2">
+        <SideMenu :items="sideMenuItems" />
+      </v-col>
+      <v-col cols="10">
+        <component :is="post" />
+      </v-col>
+    </v-row>
+  </v-container>
 </template>
 
 <script>
+import SideMenu from "~/components/SideMenu.vue";
 export default {
   layout: "default",
-  asyncData() {
+  components: {
+    SideMenu
+  },
+  asyncData({ params }) {
+    const markdownFileContextx = require.context(`~/content/`, true, /\.md$/);
+    const markdownFiles = markdownFileContextx
+      .keys()
+      .map(key => {
+        if (key.startsWith(`./${params.trip}/${params.city}`)) {
+          return {
+            title: markdownFileContextx(key).attributes.title,
+            path: `/${key.replace(".md", "").replace("./", "")}`
+          };
+        }
+      })
+      .filter(val => !!val);
     return {
       attributes: {},
-      post: null
+      post: null,
+      sideMenuItems: markdownFiles
     };
   },
   created() {

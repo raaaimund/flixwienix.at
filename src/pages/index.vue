@@ -22,10 +22,9 @@ export default {
     Map,
     CircleMarker
   },
-
-  async asyncData(context) {
-    const cityContexts = await require.context("~/content/", true, /index.md$/);
-    const cities = await cityContexts.keys().map(key => ({
+  asyncData() {
+    const cityContexts = require.context("~/content/", true, /index.md$/);
+    const cities = cityContexts.keys().map(key => ({
       attributes: cityContexts(key).attributes,
       path: `/${key.replace(".md", "").replace("./", "")}`
     }));
