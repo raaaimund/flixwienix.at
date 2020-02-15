@@ -45,7 +45,7 @@ export default {
     },
     icons: {
       iconfont: 'mdiSvg',
-    },
+    }
   },
   generate: {
     routes() {

@@ -15,6 +15,43 @@ Also nutzen wir die FLIXibilität (hahaha) von dieser Busreise total aus und fah
 
 Ich find's aber auf alle Fälle echt leiwand, dass du mit kommst. Allein wär die Reise sonst wahrscheinlich echt zach geworden. Also wenn du oben auf "nach Paris" klickst, dann kommst du zu all unseren Zwischenstopps, welche wir bis jetzt schon erreicht haben und hier ist noch mal die Route etwas schöner aufbereitet, damit du dich auch auskennst wie lange wir wo genau bleiben.
 
+## Unsere Route
+
 <TripTimeline class="mt-10 mb-10" />
 
-Ich muss auf alle Fälle jeden Tag ein paar Stunden Homeoffice machen ... eher Remoteoffice und hier an diesem Blog weiterschreiben. Zwischendurch können wir auf alle Fälle durch die Stadt flanieren und uns einfach durch die regionale Küche kosten. Aber bevor wir hier weiterschreiben können, muss ich den Blog vorallem erst mal fertig coden. Ein Tag vorm Trip hab ich angefangen den Blog zu coden und dann noch mit Sachen, mit denen ich vorher noch nie gearbeitet hab ^^.
+## Und das nehm ma auf die Reise mit
+
+<ChipWithNumber text="Kompressionssackerl fürs Gwand" :count="1" />
+<ChipWithNumber text="Lange Unterhose" :count="1" />
+<ChipWithNumber text="Unterhose" :count="3" />
+<ChipWithNumber text="Langes Leiberl" :count="1" />
+<ChipWithNumber text="Leiberl" :count="3" />
+<ChipWithNumber text="Dicke Socken" :count="2" />
+<ChipWithNumber text="Socken" :count="1" />
+<ChipWithNumber text="Pullover" :count="1" />
+<ChipWithNumber text="Haube" :count="1" />
+<ChipWithNumber text="Schal" :count="1" />
+<ChipWithNumber text="Handschuh" :count="1" />
+<ChipWithNumber text="Jacke (wasserfest)" :count="1" />
+<ChipWithNumber text="Feste Schuh" :count="1" />
+<ChipWithNumber text="Turnschuh" :count="1" />
+<ChipWithNumber text="Powerbank + Ladezeugs" :count="1" color="indigo" />
+<ChipWithNumber text="Laptop + Netzteil" :count="1" color="indigo" />
+<ChipWithNumber text="Handy + Ladezeugs" :count="1" color="indigo" />
+<ChipWithNumber text="Stirnlampe" :count="1" color="indigo" />
+<ChipWithNumber text="Kabelpenal" :count="1" color="indigo" />
+<ChipWithNumber text="Medis" :count="1" color="teal" />
+<ChipWithNumber text="Zahnbürste + -pasta" :count="1" color="teal" />
+<ChipWithNumber text="Seife" :count="1" color="teal" />
+<ChipWithNumber text="Kontaktlinsen" :count="1" color="teal" />
+<ChipWithNumber text="Handtuch (Mikrofaser)" :count="1" color="teal" />
+<ChipWithNumber text="Reisepass" :count="1" color="orange" />
+<ChipWithNumber text="Wasserflasche" :count="1" color="orange" />
+<ChipWithNumber text="Stoffsackerl" :count="2" color="orange" />
+<ChipWithNumber text="Messer" :count="1" color="orange" />
+
+<AnImage src="vienna/packlist.jpg" alt="gepackte Sachen" />
+
+## Aaaaber
+
+Ich muss auf alle Fälle jeden Tag ein paar Stunden Homeoffice machen ... eher Remoteoffice und hier an diesem Blog weiterschreiben. Zwischendurch können wir auf alle Fälle durch die Stadt flanieren und uns einfach durch die regionale Küche kosten. Aber bevor wir hier weiterschreiben können, muss ich den Blog vorallem erst mal fertig coden. Ein Tag vorm Trip hab ich angefangen den Blog zu coden und dann noch mit Sachen, mit denen ich vorher noch nie gearbeitet hab ^^ und ich muss jz scho sagen, dass viele Bilder wsl. bissl unscharf werden. Hab keine Kamera mit und mein Handy hat leider auch ned grad die beste.
