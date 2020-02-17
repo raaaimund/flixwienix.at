@@ -1,10 +1,10 @@
 <template>
   <v-container>
     <v-row>
-      <v-col cols="12" sm="auto" md="auto">
+      <v-col cols="12" sm="4" md="3">
         <SideMenu :items="sideMenuItems" />
       </v-col>
-      <v-col cols="12" sm="9" md="10">
+      <v-col cols="12" sm="8" md="9">
         <component :is="post" />
       </v-col>
     </v-row>
