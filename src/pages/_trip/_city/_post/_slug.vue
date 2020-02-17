@@ -1,7 +1,7 @@
 <template>
   <v-container>
     <v-row>
-      <v-col cols="12" sm="3" md="2">
+      <v-col cols="12" sm="auto" md="auto">
         <SideMenu :items="sideMenuItems" />
       </v-col>
       <v-col cols="12" sm="9" md="10">
