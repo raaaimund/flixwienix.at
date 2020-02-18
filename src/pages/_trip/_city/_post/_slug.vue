@@ -2,7 +2,7 @@
   <v-container>
     <v-row>
       <v-col cols="12" sm="4" md="3">
-        <SideMenu :items="sideMenuItems" />
+        <SideMenu :available-items="sideMenuItems" :selected-item="selectedItem" />
       </v-col>
       <v-col cols="12" sm="8" md="9">
         <component :is="post" />
@@ -19,6 +19,7 @@ export default {
     SideMenu
   },
   asyncData({ params }) {
+    const currentItemPath = `/${params.trip}/${params.city}/${params.post}`;
     const markdownFileContextx = require.context(`~/content/`, true, /\.md$/);
     const markdownFiles = markdownFileContextx
       .keys()
@@ -34,7 +35,8 @@ export default {
     return {
       attributes: {},
       post: null,
-      sideMenuItems: markdownFiles
+      sideMenuItems: markdownFiles,
+      selectedItem: currentItemPath
     };
   },
   created() {

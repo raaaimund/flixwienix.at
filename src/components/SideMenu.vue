@@ -1,12 +1,10 @@
 <template>
   <v-list>
     <v-subheader>Artikel</v-subheader>
-    <v-list-item-group v-model="currentItem" color="primary">
-      <v-list-item v-for="(item, i) in availableItems" :key="i">
+    <v-list-item-group v-model="indexOfSelectedItem" color="primary">
+      <v-list-item v-for="(item, i) in sortedItems" :key="i" :href="item.path">
         <v-list-item-content>
-          <nuxt-link :to="item.path">
-            <v-list-item-title v-text="item.title"></v-list-item-title>
-          </nuxt-link>
+          <v-list-item-title v-text="item.title"></v-list-item-title>
         </v-list-item-content>
       </v-list-item>
     </v-list-item-group>
@@ -16,14 +14,27 @@
 <script>
 export default {
   props: {
-    items: {
+    availableItems: {
       type: String[2],
+      required: true
+    },
+    selectedItem: {
+      type: String,
       required: true
     }
   },
-  data: context => ({
-    currentItem: 1,
-    availableItems: context.$props.items
-  })
+  computed: {
+    sortedItems() {
+      return this.availableItems.slice(0).sort((a, b) => a.title > b.title);
+    },
+    indexOfSelectedItem: {
+      get: function() {
+        return this.availableItems.findIndex(
+          file => file.path === this.selectedItem
+        );
+      },
+      set: function(val) {}
+    }
+  }
 };
 </script>
