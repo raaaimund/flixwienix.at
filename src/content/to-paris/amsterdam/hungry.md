@@ -7,6 +7,7 @@ title: Hongerig
 Hier n paar Optionen, wo man bissl was zum Essen bekommt. Albert Heijn is auf alle Fälle mal n Besucht wert, damit man sieht, was die Holländer so einkaufen. Es war ziemlich schräg, dass hier echt echt echt viel in Plastik verpackt wird, sogar einzelnes Gemüse und auch, dass das Gemüse ständig mit Wasserdampf besprüht wird.
 
 <AnImage src="amsterdam/albert-heijn-1.jpg" class="mb-5" />
+<AnImage src="amsterdam/ten-kate-market-1.jpg" class="mb-5" />
 
 <CardContainer>
     <CardColumn>
@@ -31,7 +32,7 @@ Hier n paar Optionen, wo man bissl was zum Essen bekommt. Albert Heijn is auf al
             subtitle="Ten Katestraat 34, 1053 CC Amsterdam" 
             link="https://g.page/Ten-Katemarkt-Amsterdam?share"
             tag="Markt"
-            description="Ein Bauernmarkt mit lokalem Essen, Käse, Brot und fertigs Zeug zum gleich Essen." />
+            description="Ein Bauernmarkt mit lokalem Essen, Käse, Brot, Fisch und fertigs Zeug zum gleich Essen. Danebn im Gebäude sind a die Foodhallen, aber i find draussn auf der Strasse gibts geilere Sachen. Vor allem dieses eine niederländische Standl mit Fisch. Da gibts echt geilen Kibbeling met saus." />
     </CardColumn>
     <CardColumn>
         <LocationCard 
