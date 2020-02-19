@@ -1,5 +1,5 @@
 <template>
-  <Map>
+  <Map :zoom="6" :center="[49.553726, 12.106934]">
     <CircleMarker
       v-for="city in cities"
       :key="city.attributes.title"
