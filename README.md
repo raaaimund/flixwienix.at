@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/abc5bc6d-772d-443a-9756-8f086686e6e0/deploy-status)](https://app.netlify.com/sites/hungry-jones-c6ded0/deploys)
+
 # flixwienix.at
 
 Sorry flixbus guys for using your tile server for my map. Just leave a message if I should switch to an osm tile server :)
@@ -17,4 +19,3 @@ Sorry flixbus guys for using your tile server for my map. Just leave a message i
 * SEO
 * Impressum with contact data
 * Cookie shit
-* .md lookup through store

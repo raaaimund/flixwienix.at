@@ -1,10 +1,10 @@
 <template>
   <v-list>
     <v-subheader>Artikel</v-subheader>
-    <v-list-item-group v-model="indexOfSelectedItem" color="primary">
-      <v-list-item v-for="(item, i) in sortedItems" :key="i" :href="item.path">
+    <v-list-item-group v-model="indexOfSelectedArticle" color="primary">
+      <v-list-item v-for="(item, i) in articles" :key="i" :href="item.path">
         <v-list-item-content>
-          <v-list-item-title v-text="item.title"></v-list-item-title>
+          <v-list-item-title v-text="item.attributes.title" />
         </v-list-item-content>
       </v-list-item>
     </v-list-item-group>
@@ -14,24 +14,34 @@
 <script>
 export default {
   props: {
-    availableItems: {
-      type: String[2],
+    selectedTrip: {
+      type: String,
       required: true
     },
-    selectedItem: {
+    selectedCity: {
+      type: String,
+      required: true
+    },
+    selectedArticle: {
       type: String,
       required: true
     }
   },
   computed: {
-    sortedItems() {
-      return this.availableItems.slice(0).sort((a, b) => a.title > b.title);
+    articles() {
+      return this.$store.getters.allArticlesFromCity(
+        this.$props.selectedTrip,
+        this.$props.selectedCity
+      );
     },
-    indexOfSelectedItem: {
+    indexOfSelectedArticle: {
       get: function() {
-        return this.availableItems.findIndex(
-          file => file.path === this.selectedItem
-        );
+        return this.$store.getters
+          .allArticlesFromCity(
+            this.$props.selectedTrip,
+            this.$props.selectedCity
+          )
+          .findIndex(file => file.path.endsWith(this.selectedArticle));
       },
       set: function(val) {}
     }

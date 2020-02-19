@@ -22,15 +22,10 @@ export default {
     Map,
     CircleMarker
   },
-  asyncData() {
-    const cityContexts = require.context("~/content/", true, /index.md$/);
-    const cities = cityContexts.keys().map(key => ({
-      attributes: cityContexts(key).attributes,
-      path: `/${key.replace(".md", "").replace("./", "")}`
-    }));
-    return {
-      cities
-    };
+  computed: {
+    cities() {
+      return this.$store.getters.allCities;
+    }
   }
 };
 </script>
