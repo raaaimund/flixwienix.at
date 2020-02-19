@@ -15,7 +15,6 @@ Sorry flixbus guys for using your tile server for my map. Just leave a message i
 
 * CONTENT
 * SEO
-* Side Menu / Burger Menu in blog posts
 * Impressum with contact data
 * Cookie shit
 * .md lookup through store
