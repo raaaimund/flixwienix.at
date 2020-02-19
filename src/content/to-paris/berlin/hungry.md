@@ -23,7 +23,7 @@ Am allergeilsten find ich war der Bauernmarkt, obwohl leider ned ganz sooo viele
             subtitle="Lübbener Str. 5-15, 10997 Berlin, Germany" 
             link="https://goo.gl/maps/Y2uga2xqGwXQ6NoS8"
             tag="Markt"
-            description="Ein echt, echt sau geiler und echt riesiger Markt. Total geil zum einfach mal ur langsam durchschlendern. Leider nur am Dienstag, Freitag und Samstag offen, aber hier gibt's so viele verschiedene und sau gute Sachen und auch echt viele Fetzen. Das allergeilste ist das kleine gelbe Kvass Mobil, das kann man echt mal auschecken." />
+            description="Ein echt, echt sau geiler und echt riesiger Markt. Ohne nem Tipp von meinem Host wär ich hier nie vorbeigelaufen. Total geil zum einfach mal ur langsam durchschlendern. Leider nur am Dienstag, Freitag und Samstag offen, aber hier gibt's so viele verschiedene und sau gute Sachen und auch echt viele Fetzen. Das allergeilste ist das kleine gelbe Kvass Mobil, das kann man echt mal auschecken." />
     </CardColumn>
     <CardColumn>
         <LocationCard 

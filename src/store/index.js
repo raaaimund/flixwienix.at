@@ -1,7 +1,3 @@
-// get all cities for markers
-// get all articles
-// get one article
-
 const articleForCitySuffix = "/index";
 
 export const getters = {
