@@ -13,7 +13,7 @@ Ich hab echt viele Tipps von Freunden bekommen, jedoch hab ich leider nicht alle
             subtitle="Józefa 36, 31-056 Kraków, Poland" 
             link="https://goo.gl/maps/pti7ssGhxMRYgT9y5"
             tag="Latte ca. 2,50 €"
-            description="Hier gibts drei Tische mit Polster am Boden, wo man sich wirlich total geil hinhaun und richtig im Laptop versinken kann. Genug Steckdosen und natürlich israelisches und polnisches Essen und Trinken. Gessn hab ich zwar nix, hat aber alles echt geil ausgschaut, wobei neben mir hat ein Pärchen Shakshuka bestellt und das eine echt kleine Portion." />
+            description="Hier gibts drei Tische mit Polster am Boden, wo man sich wirlich total geil hinhaun und richtig im Laptop versinken kann. Genug Steckdosen und israelische, so wie polnische Snacks und Trinken. Gegessen hab ich zwar nichts, es hat aber alles echt gut ausgschaut, wobei ich statt Essen lieber Snacks schreibe, da neben mir ein Pärchen Shakshuka bestellt hat und das eine echt ziemlich kleine Portion war." />
     </CardColumn>
     <CardColumn>
         <LocationCard 
@@ -21,7 +21,7 @@ Ich hab echt viele Tipps von Freunden bekommen, jedoch hab ich leider nicht alle
             subtitle="Józefa 25, 31-056 Kraków, Poland"
             link="https://g.page/czajowniakrakow?share"
             tag="Tee ab. 2 €"
-            description="Eine eeeeecht riesige Teeauswahl und total schön ruhig. Auch hier sitzt man bei den meisten Plätzen auf Polstern und Teppich am Boden. Man sollte auf alle Fälle eine Steckdose suchen, bevor man sich hinsetzt." />
+            description="Eine eeeeecht riesige Auswahl von verschiedensten Tees und total schön ruhig. Auch hier sitzt man bei den meisten Plätzen auf Polstern und Teppich am Boden und man sollte auf alle Fälle eine Steckdose suchen, bevor man sich hinsetzt." />
     </CardColumn>
     <CardColumn>
         <LocationCard 
@@ -45,7 +45,7 @@ Ich hab echt viele Tipps von Freunden bekommen, jedoch hab ich leider nicht alle
             subtitle="Rajska 12, 33-332 Kraków, Poland" 
             link="https://goo.gl/maps/Bq5d3iKBBqJJJtf89"
             tag="??"
-            description="Angeblich auch ein beliebter Treffpunkt von Studenten mit Steckdosen und genug Platz zum Arbeiten. Der einzige Haken hier ist, dass man irgendeinen Bibliotheksausweis vor Ort beantragen muss, aber angeblich geht das echt FLIX." />
+            description="Angeblich auch ein beliebter Treffpunkt von Studenten mit Steckdosen und genug Platz zum Arbeiten. Der einzige Haken hier ist, dass man einen Bibliotheksausweis vor Ort beantragen muss, aber angeblich geht das echt FLIX." />
     </CardColumn>
     <CardColumn>
         <LocationCard 
@@ -53,7 +53,7 @@ Ich hab echt viele Tipps von Freunden bekommen, jedoch hab ich leider nicht alle
             subtitle="Krupnicza 7, 33-332 Kraków, Poland" 
             link="https://goo.gl/maps/7iuiSTtAUs7JJmRt6"
             tag="Latte ca. 2,30 €"
-            description="Hier hab ich leider nur einen Kaffee getrunken, und bin nicht viel länger geblieben. Hier treffen sich auch viele Studenten um zu lernen und der Kaffee war auch echt gut, Steckdosen gab es auch genug, was ich jetzt so im Kopf habe und ganz hinten gibts ne echt gemütliche Couch." />
+            description="Hier hab ich leider nur einen Kaffee getrunken, und bin nicht viel länger geblieben. Auch hier treffen sich viele Studenten um zu lernen und der Kaffee war auch echt gut, Steckdosen gab es auch genug. Aja und ganz hinten gibts eine echt gemütliche Couch." />
     </CardColumn>
     <CardColumn>
         <LocationCard 
@@ -61,6 +61,6 @@ Ich hab echt viele Tipps von Freunden bekommen, jedoch hab ich leider nicht alle
             subtitle="Gronostajowa 3, 30-387 Kraków, Poland" 
             link="https://goo.gl/maps/eq4a1Hn4t6Uuikwf6"
             tag="??"
-            description="Angeblich gibts hier am Campus ein paar Plätze wo sich auch Studenten zum Lernen treffen. Ist zwar bissl ausserhalb, aber wär mal einen Versuch wert." />
+            description="Angeblich gibts hier am Campus ein paar Plätze an denen sich auch Studenten zum Lernen treffen. Ist zwar bissl ausserhalb, aber wär mal einen Versuch wert." />
     </CardColumn>
 </CardContainer>

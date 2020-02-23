@@ -13,7 +13,7 @@ Hab in Amsterdam jetzt nicht so viele Plätze ausprobiert, da ich drei Tage lang
             subtitle="Baarsjesweg 302, 1058 AH Amsterdam" 
             link="https://goo.gl/maps/Ha42fudBjypBD5Ak6"
             tag="Latte 3 €"
-            description="Hier kommen echt viele leute her um zu arbeiten oder zu lernen. Wenn man nen Platz auf der Ledercouch habn möchte, dann is fix besser, wenn man echt früh hin schaut. Das Kaffee hat eh scho ab 07:00 Uhr offen und man kann dort ungestört den ganzen Tag verbringen. Es gibt auch gratis Wasser, Strom und WLAN und sau freundliche Mitarbeiter." />
+            description="Hier kommen echt viele leute her um zu arbeiten oder zu lernen. Wenn man nen Platz auf der Ledercouch habn möchte, dann is fix besser, wenn man echt früh hin schaut. Das Kaffee hat eh scho ab 07:00 Uhr offen und man kann dort ungestört den ganzen Tag verbringen. Es gibt auch gratis Wasser, Strom und WLAN und sau freundliche Mitarbeiter. Am letzten Tag hab ich dann erst gesehen, dass das Kaffee aber leider auch schon um 17:00 wieder zu sperrt." />
     </CardColumn>
     <CardColumn>
         <LocationCard 
@@ -21,6 +21,6 @@ Hab in Amsterdam jetzt nicht so viele Plätze ausprobiert, da ich drei Tage lang
             subtitle="De Boelelaan 1105, 1081 HV Amsterdam" 
             link="https://goo.gl/maps/uUCVSTbdzJCUXcbi8"
             tag="Uni"
-            description="In der Uni gibts ur viele kleine Lernecken, Strom und natürlich das wichtigste - eduroam. Auch der Stadtteil Zuidas in der die Universität liegt ists auf alle Fälle wert, dass man den mal besucht - total anders, total neu. Btw. in der Uni gibts ur viele Mäuse, vor allem am Abend sieht man die im Foyer herumlaufen." />
+            description="In der Uni gibts ur viele kleine Lernecken, Strom und natürlich das wichtigste - eduroam. Auch der Stadtteil Zuidas, in welcher die Universität liegt ist es auf alle Fälle wert, dass man den mal besucht - total anders, total neu. Ach ja hier in der Uni gibt es ur viele Mäuse. Vor allem am Abend sieht man die im Foyer herumlaufen." />
     </CardColumn>
 </CardContainer>

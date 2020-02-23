@@ -4,8 +4,7 @@ title: Arbeit, Arbeit
 
 # Arbeit, Arbeit
 
-Oke also in Berlin gibt es echt sau viele gschmeidige Kaffees zum reinchillen und hackeln und einen echt supergeilen Ort und zwar das <a href="https://goo.gl/maps/44B6BHv1X43iTpZy6" target="_blank">Quartier Zukunft</a> der Deutschen Bank. Ich Depp hab immer nach Kaffees gesucht, aber eigentlich hätt ich anscheinend nach Banken ausschau halten sollen.
-
+Oke also in Berlin gibt es echt sau viele gschmeidige Kaffees zum runterkommen und um für ein paar Stunden in die Arbeit einzutauchen und einen echt supergeilen Ort und zwar das <a href="https://goo.gl/maps/44B6BHv1X43iTpZy6" target="_blank">Quartier Zukunft</a> der Deutschen Bank. Ich Depp hab immer nach Kaffees gesucht, aber eigentlich hätt ich anscheinend nach Banken ausschau halten sollen.
 
 <CardContainer>
     <CardColumn>
@@ -23,14 +22,6 @@ Oke also in Berlin gibt es echt sau viele gschmeidige Kaffees zum reinchillen un
             link="https://g.page/reehamcoffee?share"
             tag="Latte ca. 3 €"
             description="Hinten in der Ecke gibt es zwei riesige Sessel in denen man total abtauchen und lostippen kann. Dazu gibt es hier auch echt geiles Essen und total freundliche Mitarbeiter." />
-    </CardColumn>
-    <CardColumn>
-        <LocationCard 
-            title="EINSTEIN KAFFEE Savignyplatz" 
-            subtitle="Stadtbahnbogen 596, 10623 Berlin, Germany" 
-            link="https://goo.gl/maps/vZ5ZXNNmYiRVpsRd6"
-            tag="Latte ca. 3 €"
-            description="Von diesen EINSTEIN KAFFEEs gibts anscheinend ein paar in Berlin, aber jedes mal wars richtig angenehm. Hier muss man auf alle Fälle aufpassen, wo man sich hinsetzt, da es leider nicht so viele Steckdosen gibt." />
     </CardColumn>
     <CardColumn>
         <LocationCard 

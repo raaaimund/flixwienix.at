@@ -9,15 +9,15 @@ icon: mdi-city
 
 # Goedemorgen Amsterdam!
 
-Voll freshes Wetter hier in Sloterdijk, nass, kalt und windig ... naja vielleicht ändert sich das ja noch. Irgendwie kommts mir so vor als würd hier in Amsterdam immer Wind wehen, nur die Kälte und Nässe ändert sich ein wenig. Damit ma mal gscheit munter werdn, hol ma si an Kaffee und machn mal an Spaziergang von Sloterdijk in die Stadt, glaub das wird uns echt gut aufwecken. Am Weg in die Stadt liegt der <a href="https://goo.gl/maps/hWn94EYBv4Dz6H838" target="_blank">Tuinpark Nut & Genoegen</a>, der einerseits ur schön is und gleichzeitig kann man da in dem Sumpf echt gut versinken, vor allem wenns vorher immer wieder gregnet hat.
+Wieder mal voll freshes Wetter hier in **Sloterdijk**. Nass, kalt und windig ... naja vielleicht ändert sich das ja noch. Irgendwie kommts mir so vor als würd hier in Amsterdam immer Wind wehen, nur die Kälte und Nässe ändert sich ein wenig. Damit ma mal gscheit munter werdn, holn wir uns mal einen Kaffee und machn mal einen Spaziergang von Sloterdijk in die Stadt. Ich glaub danach sind wir echt Munter. Am Weg in die Stadt liegt der <a href="https://goo.gl/maps/hWn94EYBv4Dz6H838" target="_blank">Tuinpark Nut & Genoegen</a>, der einerseits ur schön is und gleichzeitig kann man da in dem Sumpf echt arg versinken, vor allem wenns vorher immer wieder gregnet hat.
 
 <AnImage src="amsterdam/amsterdam-1.jpg" class="mb-5" />
 
 ## Schlafen
 
-Amsterdam ist einfach echt scheiss teuer was Hostels und AirbnB angeht. Ohne <a href="" target="_blank">Couchsurfing</a> hätt ich ned vier Tage lang hier in der Stadt bleiben könnnen. Es gibt auf alle Fälle eine größere Auswahl an Hostels, aber was ich so gsehn hab kriegst entweder a billiges Hostel und bist irgendwo am Rand der Stadt oder zahlst dich dumm und deppad.
+Amsterdam ist einfach echt total teuer was Hostels und Airbnb angeht. Ohne <a href="https://www.couchsurfing.com/" target="_blank">Couchsurfing</a> hätt ich echt ned vier Tage lang hier in der Stadt bleiben könnnen. Es gibt auf alle Fälle eine größere Auswahl an Hostels, aber was ich so gsehn hab kriegst entweder ein *billiges* Hostel und bist irgendwo am Rand der Stadt oder zahlst dich dumm und deppad.
 
-Wenns aber mal ned so kalt ist und man auf Campen steht, dann ist <a href="https://g.page/camping-zeeburg-amsterdam" target="_blank">Camping Zeeburg Amsterdam</a> glaub ich ne echt gute Wahl. Hier zahlt man so um die **10 €** pro Tag für ein Zelt und es is echt groß, sauber und in ner voll guten Lage um die Stadt zu erkunden.
+Wenns aber mal ned so kalt ist und man auf Campen steht, dann ist <a href="https://g.page/camping-zeeburg-amsterdam" target="_blank">Camping Zeeburg Amsterdam</a> glaub ich ne echt gute Wahl. Hier zahlt man so um die **10 €** pro Tag für ein Zelt inklusive einer Person und es is echt groß, sauber und in ner voll guten Lage um die Stadt zu erkunden.
 
 <AnImage src="amsterdam/amsterdam-2.jpg" class="mb-5" />
 

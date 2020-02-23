@@ -13,7 +13,7 @@ Hier ein paar polnische Restaurants und Märkte.
             subtitle="Estery 46, 31-056 Kraków, Poland" 
             link="https://goo.gl/maps/bKEt77y5uUNDfnXy9"
             tag="Polski ab 1,50 €"
-            description="Hier gibts einen Zapiekanki Stand nach dem anderen, welcher eeeecht fette Sandwiches verkauft. Aufs Sandwich kommt oft irgendwas drauf, das sich wie n Pizzabelag anhört. Auf alle Fälle echt billig und total sättigend. Hier gibts auch ein paar Standln, welche an nen kleinen Flohmarkt erinnern und so alte Sachen verkaufen." />
+            description="Hier gibts einen Zapiekanki Stand nach dem anderen, welcher eeeecht fette Sandwiches verkauft. Aufs Zapiekanki kommt oft irgendwas drauf, das sich wie n Pizzabelag anhört. Auf alle Fälle echt billig und total ... fett. Hier gibts ab und zu auch ein paar Standln, welche ältere Sachen wie auf nem Flohmarkt verkaufen" />
     </CardColumn>
     <CardColumn>
         <LocationCard 
@@ -21,7 +21,7 @@ Hier ein paar polnische Restaurants und Märkte.
             subtitle="Grodzka 43, 31-001 Kraków, Poland" 
             link="https://goo.gl/maps/S11xW5K97bWQx9wp8"
             tag="Polski"
-            description="Billiges und geiles polnisches Essen - muss man echt besuchen." />
+            description="Billiges und geiles polnisches Essen." />
     </CardColumn>
     <CardColumn>
         <LocationCard 
