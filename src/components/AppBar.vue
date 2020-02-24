@@ -1,7 +1,7 @@
 <template>
   <v-app-bar dark class="primary" fixed app flat>
     <v-toolbar-title class="display-1 font-weight-medium">
-      FLIXwienix
+      <nuxt-link to="/">FLIXwienix</nuxt-link>
     </v-toolbar-title>
     <v-btn text href="/" class="ml-4">nach Paris</v-btn>
     <v-spacer />
@@ -20,3 +20,10 @@ export default {
   })
 };
 </script>
+
+<style scoped>
+.v-toolbar__title > a {
+  color: white;
+  text-decoration: none;
+}
+</style>
