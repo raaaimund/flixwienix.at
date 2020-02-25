@@ -26,7 +26,7 @@ Ich find's aber auf alle Fälle echt leiwand, dass du mit kommst. Allein wär di
 <ChipWithNumber text="Unterhose" :count="3" />
 <ChipWithNumber text="Langes Leiberl" :count="1" />
 <ChipWithNumber text="Leiberl" :count="3" />
-<ChipWithNumber text="Dicke Socken" :count="2" />
+<ChipWithNumber text="Dicke Socken" :count="3" />
 <ChipWithNumber text="Socken" :count="1" />
 <ChipWithNumber text="Pullover" :count="1" />
 <ChipWithNumber text="Haube" :count="1" />
@@ -45,6 +45,7 @@ Ich find's aber auf alle Fälle echt leiwand, dass du mit kommst. Allein wär di
 <ChipWithNumber text="Seife" :count="1" color="teal" />
 <ChipWithNumber text="Kontaktlinsen" :count="1" color="teal" />
 <ChipWithNumber text="Handtuch (Mikrofaser)" :count="1" color="teal" />
+<ChipWithNumber text="Rasierer" :count="1" color="teal" />
 <ChipWithNumber text="Reisepass" :count="1" color="orange" />
 <ChipWithNumber text="Wasserflasche" :count="1" color="orange" />
 <ChipWithNumber text="Stoffsackerl" :count="2" color="orange" />
