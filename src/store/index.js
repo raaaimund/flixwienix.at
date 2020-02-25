@@ -7,7 +7,7 @@ export const getters = {
             attributes: articleContexts(key).attributes,
             path: `/${key.replace(".md", "").replace("./", "")}`
         }));
-        return articles.slice(0).sort((a, b) => a.title > b.title)
+        return articles.slice(0).filter(article => !article.attributes.draft).sort((a, b) => a.title > b.title)
     },
     allArticlesFromCity: () => (trip, city) => getters.allArticles().slice(0).filter(article => article.path.startsWith(`/${trip}/${city}`)),
     allCities: () => getters.allArticles().slice(0).filter(article => article.path.endsWith(articleForCitySuffix)),

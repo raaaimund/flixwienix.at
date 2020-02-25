@@ -15,7 +15,11 @@ Sorry flixbus guys for using your tile server for my map. Just let me know if I 
 
 ## ToDo
 
-* CONTENT
-* SEO
-* Impressum with contact data
-* Cookie shit
+* content
+* seo
+* cookie consent
+* burger menu
+* impressum
+* analytics
+* dive into ssr
+* dive into wcag

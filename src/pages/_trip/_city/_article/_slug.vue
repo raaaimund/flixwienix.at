@@ -31,6 +31,11 @@ export default {
     const markdown = require(`~/content/${this.$route.params.trip}/${this.$route.params.city}/${this.$route.params.article}.md`);
     this.attributes = markdown.attributes;
     this.content = markdown.vue.component;
+  },
+  head() {
+    return {
+      title: this.attributes.title
+    };
   }
 };
 </script>
