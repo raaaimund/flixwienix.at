@@ -4,7 +4,7 @@ title: Zurück in Wien
 
 # Zurück in Wien
 
-Es ist **12 Uhr** und ich bin wieder in Wien. Zwar etwas früher, als eigentlich geplant, aber so wie ich mich jetzt gerade fühle, bin ich wirklich total Froh. Das war grad eine Busfahrt von **18 Stunden**, aber diesmal hab ich einen Platz auf einem 4 Sitzer mit Tisch reserviert. Das kostet zwar so um die **5 €** mehr, aber bei dieser Busfahrt von 18 Stunden war das echt angenehm genug Platz zu haben und den Vormittag auch die Zeit und den Platz zu haben um mit dem Laptop etwas arbeiten zu können. Leider bin ich etwas blöd neben dem Fenster eingeschlafen und hab den ständigen Windzug nicht so gemerkt, erst als ich aufgewacht bin und da hab ich es schon gespürt, dass es sich etwas anfühlt, als würde ich etwas kränkeln. Aber erst mal heim, baden und Tee, Tee, Tee, Tee.
+Es ist **12 Uhr** und ich bin wieder in Wien. Zwar etwas früher, als eigentlich geplant, aber so wie ich mich jetzt gerade fühle, bin ich wirklich total Froh. Das war grad eine Busfahrt von **18 Stunden**, aber diesmal hab ich einen Platz auf einem 4 Sitzer mit Tisch reserviert. Kostet zwar so um die **5 €** mehr, aber bei so ner längeren Busfahrt war das echt angenehm genug Platz zu haben und den Vormittag auch die Zeit und den Platz um mit dem Laptop ein bisschen arbeiten zu können. Leider bin ich etwas blöd neben dem Fenster eingenickt und hab den ständigen Windzug nicht gemerkt, erst als ich aufgewacht bin und da hab ich es schon gespürt, ganz wenig Hals- und Kopfweh... Aber erst mal heim, baden und Tee, Tee, Tee, Tee.
 
 ## Unnötiges Zeug
 
