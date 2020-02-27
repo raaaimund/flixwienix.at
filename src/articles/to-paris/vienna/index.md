@@ -1,6 +1,6 @@
 ---
-title: Vienna
-price: 0
+title: Wien
+price: 32
 latlng: [48.208176, 16.373819]
 trip: to-paris
 city: vienna
@@ -18,6 +18,10 @@ Ich find's aber auf alle Fälle echt leiwand, dass du mit kommst. Allein wär di
 ## Unsere Route
 
 <TripTimeline class="mt-10 mb-10" />
+
+## Kosten der Fahrten
+
+Eigentlich war geplant das Angebot <a href="https://interflix.flixbus.de/" target="_blank">InterFlix</a> um **99 €** auszuprobieren, aber leider hatte die Seite einen Fehler, weswegen ich kein Ticket kaufn konnte. Die Planung war wieder mal just in time und ich wusste nicht, ob die Tickets eventuell noch teurer werden, wenn ich noch länger warte. Also habe ich die Fahrten einzeln gekauft und in Summe statt den **99 €** für InterFlix ein wenig mehr und zwar **133 €** gezahlt.
 
 ## Und das nehm ma auf die Reise mit
 
