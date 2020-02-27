@@ -1,6 +1,6 @@
 <template>
   <v-timeline>
-    <v-timeline-item v-for="(item, i) in timelineItems" :key="i" :color="item.color" small>
+    <v-timeline-item v-for="(item, i) in allItems" :key="i" :color="item.color" small>
       <template v-slot:opposite>
         <span :class="`headline font-weight-bold ${item.color}--text`" v-text="item.arrivalDate" />
       </template>
@@ -13,11 +13,12 @@
 </template>
 
 <script>
+import { createNamespacedHelpers } from "vuex";
+
+const { mapGetters } = createNamespacedHelpers("timeline");
 export default {
   computed: {
-    timelineItems() {
-      return this.$store.getters.allTimelineItems;
-    }
+    ...mapGetters(["allItems"])
   }
 };
 </script>

@@ -6,25 +6,17 @@
     </v-toolbar-title>
     <v-spacer />
     <v-btn icon href="//github.com/raaaimund/flixwienix.at" target="_blank">
-      <v-icon>{{ svgPath }}</v-icon>
+      <v-icon>mdi-github-circle</v-icon>
     </v-btn>
   </v-app-bar>
 </template>
 
 <script>
 import { mapMutations } from "vuex";
-import { mdiGithubCircle } from "@mdi/js";
 
 export default {
-  data() {
-    return {
-      svgPath: mdiGithubCircle
-    };
-  },
   methods: {
-    toggleNavigationDrawerVisibility() {
-      this.$store.commit("toggleNavigationDrawerVisibility");
-    }
+    ...mapMutations(["toggleNavigationDrawerVisibility"])
   }
 };
 </script>

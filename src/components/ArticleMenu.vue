@@ -12,6 +12,9 @@
 </template>
 
 <script>
+import { createNamespacedHelpers } from "vuex";
+
+const { mapGetters } = createNamespacedHelpers("articles");
 export default {
   props: {
     subTitle: {
@@ -32,16 +35,18 @@ export default {
     }
   },
   computed: {
+    ...mapGetters(["allArticlesFromCity"]),
     articles() {
-      return this.$store.getters.allArticlesFromCity(
+      return this.allArticlesFromCity(
         this.$props.selectedTrip,
         this.$props.selectedCity
       );
     },
     indexOfSelectedArticle() {
-      return this.$store.getters
-        .allArticlesFromCity(this.$props.selectedTrip, this.$props.selectedCity)
-        .findIndex(file => file.path.endsWith(this.selectedArticle));
+      return this.allArticlesFromCity(
+        this.$props.selectedTrip,
+        this.$props.selectedCity
+      ).findIndex(file => file.path.endsWith(this.selectedArticle));
     }
   }
 };
