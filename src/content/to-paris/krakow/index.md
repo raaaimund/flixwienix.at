@@ -11,7 +11,7 @@ icon: mdi-account
 
 Endlich wieder in **Kraków**. Es ist zwar gerade noch echt kalt, aber angeblich ist das normal hier zu dieser Jahreszeit. Also wenn ich hier jetzt eingepackt wie eine Zwiebel vor **Kraków Główny** stehe, welche sich teilweise im nassen Boden spiegelt, mir der kalte, aber angenehme Wind ins Gsicht weht, die Leute rund herum aum Weg in die Arbeit sind und die Stadt immer heller und heller wird, glaube ich wärs jetzt mal am Besten im Hostel den Rucksack auszuräumen und dann einfach durch Kazimierz zu wandern und dort den Tag in und mit einem Kaffee zu beginnen. Ich bin zwar erst das zweite mal in Kraków, aber irgendwie ist Kazimierz echt mein lieblings Viertel hier. Da gibts echt ur viele liebe Kaffees und am geilsten ist das Cheder, so wie der Czajownia Tea Room. Dort kann man sich echt voll gut auf den gepolsterten Boden haun und einfach im Laptop versinken.
 
-<AnImage src="krakow/krakow-glowny.jpg" />
+<BaseImage src="krakow/krakow-glowny.jpg" />
 
 ## Schlafen
 

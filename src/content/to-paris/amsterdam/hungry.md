@@ -6,8 +6,8 @@ title: Hongerig
 
 Hier ein paar Optionen, wo man bissl was zum Essen bekommt. **Albert Heijn** is auf alle Fälle mal einen Besucht wert, damit man sieht, was die Holländer so einkaufen. Es war ziemlich schräg, dass hier echt echt echt viel in Plastik verpackt wird, sogar einzelne Paprika und auch, dass das Gemüse ständig mit Wasserdampf besprüht wird.
 
-<AnImage src="amsterdam/albert-heijn-1.jpg" class="mb-5" />
-<AnImage src="amsterdam/ten-kate-market-1.jpg" class="mb-5" />
+<BaseImage src="amsterdam/albert-heijn-1.jpg" class="mb-5" />
+<BaseImage src="amsterdam/ten-kate-market-1.jpg" class="mb-5" />
 
 <CardContainer>
     <CardColumn>

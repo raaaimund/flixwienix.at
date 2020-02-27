@@ -1,13 +1,13 @@
 import Vue from 'vue'
 import TripTimeline from '~/components/TripTimeline'
-import AnImage from '~/components/AnImage'
+import BaseImage from '~/components/BaseImage'
 import ChipWithNumber from '~/components/ChipWithNumber'
 import LocationCard from '~/components/LocationCard'
 import CardContainer from '~/components/CardContainer'
 import CardColumn from '~/components/CardColumn'
 
 Vue.component('TripTimeline', TripTimeline);
-Vue.component('AnImage', AnImage);
+Vue.component('BaseImage', BaseImage);
 Vue.component('ChipWithNumber', ChipWithNumber);
 Vue.component('LocationCard', LocationCard);
 Vue.component('CardContainer', CardContainer);

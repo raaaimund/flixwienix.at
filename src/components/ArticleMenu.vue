@@ -1,6 +1,6 @@
 <template>
   <v-list>
-    <v-subheader>Artikel</v-subheader>
+    <v-subheader>{{ subTitle }}</v-subheader>
     <v-list-item-group v-model="indexOfSelectedArticle" color="primary">
       <v-list-item v-for="(item, i) in articles" :key="i" :href="item.path">
         <v-list-item-content>
@@ -14,6 +14,10 @@
 <script>
 export default {
   props: {
+    subTitle: {
+      type: String,
+      required: true
+    },
     selectedTrip: {
       type: String,
       required: true

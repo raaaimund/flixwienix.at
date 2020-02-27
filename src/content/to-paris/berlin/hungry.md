@@ -6,7 +6,7 @@ title: Huuuunger
 
 Am allergeilsten find ich war der Bauernmarkt. Leider waren am Markt ned ganz sooo viele Bauern, aber dafür dieses kleine gelbe <a href="https://kio-trunk.com/" target="_blank">Kvass Mobil</a>. Sooo geil, dass es da einfach n Kvass Standl gibt und dann auch noch so nen geiln selbstgmachtn Kvass.
 
-<AnImage src="berlin/berlin-4.jpg" class="mb-5" />
+<BaseImage src="berlin/berlin-4.jpg" class="mb-5" />
 
 <CardContainer>
     <CardColumn>

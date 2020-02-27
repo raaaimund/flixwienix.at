@@ -51,7 +51,7 @@ Ich find's aber auf alle Fälle echt leiwand, dass du mit kommst. Allein wär di
 <ChipWithNumber text="Stoffsackerl" :count="2" color="orange" />
 <ChipWithNumber text="Messer" :count="1" color="orange" />
 
-<AnImage src="vienna/packlist.jpg" alt="gepackte Sachen" />
+<BaseImage src="vienna/packlist.jpg" alt="gepackte Sachen" />
 
 ## Aaaaber
 

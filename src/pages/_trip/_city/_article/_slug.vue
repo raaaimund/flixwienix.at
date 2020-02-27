@@ -2,7 +2,7 @@
   <v-container>
     <v-row>
       <v-col cols="12" sm="4" md="3">
-        <SideMenu :selected-trip="trip" :selected-city="city" :selected-article="article" />
+        <ArticleMenu sub-title="Artikel" :selected-trip="trip" :selected-city="city" :selected-article="article" />
       </v-col>
       <v-col cols="12" sm="8" md="9">
         <component :is="content" />
@@ -12,11 +12,11 @@
 </template>
 
 <script>
-import SideMenu from "~/components/SideMenu.vue";
+import ArticleMenu from "~/components/ArticleMenu.vue";
 export default {
   layout: "default",
   components: {
-    SideMenu
+    ArticleMenu
   },
   data: function() {
     return {

@@ -8,4 +8,4 @@ Noch einmal danke für die echt geile Zeit in Paris und auch, dass sich Bernd un
 
 Echt nice, dass wir zusammen so ein geiles Paris erlebt haben.
 
-<AnImage src="paris/birthday-1.jpeg" alt="Bon anniversaire Tamara" class="mb-5" />
+<BaseImage src="paris/birthday-1.jpeg" alt="Bon anniversaire Tamara" class="mb-5" />
