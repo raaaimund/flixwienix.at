@@ -1,5 +1,15 @@
 const articleForCitySuffix = "/index";
 
+export const state = () => ({
+    isNavigationDrawerVisible: false
+})
+
+export const mutations = {
+    toggleNavigationDrawerVisibility(state) {
+        state.isNavigationDrawerVisible = !state.isNavigationDrawerVisible
+    }
+}
+
 export const getters = {
     allArticles: () => {
         const articleContexts = require.context("~/articles/", true, /\.md$/);

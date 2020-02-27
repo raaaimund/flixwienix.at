@@ -1,7 +1,7 @@
 <template>
   <v-list>
     <v-subheader>{{ subTitle }}</v-subheader>
-    <v-list-item-group v-model="indexOfSelectedArticle" color="primary">
+    <v-list-item-group :value="indexOfSelectedArticle" color="primary">
       <v-list-item v-for="(item, i) in articles" :key="i" :href="item.path">
         <v-list-item-content>
           <v-list-item-title v-text="item.attributes.title" />
@@ -38,16 +38,10 @@ export default {
         this.$props.selectedCity
       );
     },
-    indexOfSelectedArticle: {
-      get: function() {
-        return this.$store.getters
-          .allArticlesFromCity(
-            this.$props.selectedTrip,
-            this.$props.selectedCity
-          )
-          .findIndex(file => file.path.endsWith(this.selectedArticle));
-      },
-      set: function(val) {}
+    indexOfSelectedArticle() {
+      return this.$store.getters
+        .allArticlesFromCity(this.$props.selectedTrip, this.$props.selectedCity)
+        .findIndex(file => file.path.endsWith(this.selectedArticle));
     }
   }
 };

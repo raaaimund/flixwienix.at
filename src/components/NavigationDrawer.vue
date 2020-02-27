@@ -1,5 +1,5 @@
 <template>
-  <v-navigation-drawer v-model="drawer" absolute>
+  <v-navigation-drawer :value="navigationDrawerVisibility" app absolute>
     <v-list-item>
       <v-list-item-content>
         <v-list-item-title class="title">FLIXwienix</v-list-item-title>
@@ -34,9 +34,13 @@ export default {
           icon: "mdi-map-marker-question-outline",
           path: "/impressum"
         }
-      ],
-      drawer: true
+      ]
     };
+  },
+  computed: {
+    navigationDrawerVisibility() {
+      return this.$store.state.isNavigationDrawerVisible;
+    }
   }
 };
 </script>

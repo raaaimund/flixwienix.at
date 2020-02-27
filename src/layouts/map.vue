@@ -1,5 +1,6 @@
 <template>
   <v-app>
+    <NavigationDrawer />
     <AppBar />
     <v-content>
       <nuxt />
@@ -9,8 +10,8 @@
 
 <script>
 import AppBar from "~/components/AppBar.vue";
-
+import NavigationDrawer from "~/components/NavigationDrawer.vue";
 export default {
-  components: { AppBar }
+  components: { AppBar, NavigationDrawer }
 };
 </script>
