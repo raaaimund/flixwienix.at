@@ -23,7 +23,7 @@ export const getters = {
             city: "Berlin",
             color: "secondary",
             arrivalDate: "14.02.",
-            description: "In Berlin sollten wir auch echt scheiss zeitig in der Früh ankommen. Hier haben wir nur zwei Tage, aber auf alle Fälle genug Zeit für ein Döner."
+            description: "In Berlin sollten wir auch echt zeitig in der Früh ankommen. Hier haben wir nur zwei Tage, aber auf alle Fälle genug Zeit für ein Döner."
         },
         {
             city: "Amsterdam",
