@@ -2,7 +2,7 @@ const articleForCitySuffix = "/index";
 
 export const getters = {
     allArticles: () => {
-        const articleContexts = require.context("~/content/", true, /\.md$/);
+        const articleContexts = require.context("~/articles/", true, /\.md$/);
         const articles = articleContexts.keys().map(key => ({
             attributes: articleContexts(key).attributes,
             path: `/${key.replace(".md", "").replace("./", "")}`

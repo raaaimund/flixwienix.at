@@ -51,7 +51,7 @@ export default {
   generate: {
     routes() {
       return glob
-        .sync("**/*.md", { cwd: 'src/content' })
+        .sync("**/*.md", { cwd: 'src/articles' })
         .map(filepath => `/${filepath.replace(".md", "")}`);
     }
   }

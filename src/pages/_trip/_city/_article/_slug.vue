@@ -28,7 +28,7 @@ export default {
     };
   },
   created() {
-    const markdown = require(`~/content/${this.$route.params.trip}/${this.$route.params.city}/${this.$route.params.article}.md`);
+    const markdown = require(`~/articles/${this.$route.params.trip}/${this.$route.params.city}/${this.$route.params.article}.md`);
     this.attributes = markdown.attributes;
     this.content = markdown.vue.component;
   },
