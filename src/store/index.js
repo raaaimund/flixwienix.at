@@ -7,6 +7,9 @@ export const state = () => ({
 export const mutations = {
     toggleNavigationDrawerVisibility(state) {
         state.isNavigationDrawerVisible = !state.isNavigationDrawerVisible
+    },
+    setNavigationDrawerVisibility(state, visibility) {
+        state.isNavigationDrawerVisible = visibility
     }
 }
 

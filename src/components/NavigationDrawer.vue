@@ -1,5 +1,5 @@
 <template>
-  <v-navigation-drawer :value="navigationDrawerVisibility" app absolute>
+  <v-navigation-drawer v-model="navigationDrawerVisibility" app absolute>
     <v-list-item>
       <v-list-item-content>
         <v-list-item-title class="title">FLIXwienix</v-list-item-title>
@@ -38,8 +38,13 @@ export default {
     };
   },
   computed: {
-    navigationDrawerVisibility() {
-      return this.$store.state.isNavigationDrawerVisible;
+    navigationDrawerVisibility: {
+      get() {
+        return this.$store.state.isNavigationDrawerVisible;
+      },
+      set(visibility) {
+        this.$store.commit("setNavigationDrawerVisibility", visibility)
+      }
     }
   }
 };
