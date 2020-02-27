@@ -14,6 +14,9 @@ export default {
       { rel: 'stylesheet', href: '//fonts.googleapis.com/css?family=Roboto:400,500,700,400italic|Material+Icons' }
     ]
   },
+  modules: [
+    '@nuxtjs/pwa',
+  ],
   buildModules: [
     '@nuxtjs/vuetify',
   ],
@@ -53,6 +56,15 @@ export default {
       return glob
         .sync("**/*.md", { cwd: 'src/articles' })
         .map(filepath => `/${filepath.replace(".md", "")}`);
+    }
+  },
+  pwa: {
+    manifest: {
+      name: "FLIXwienix",
+      description: "Ein kleiner Blog über eine kleine Reise mit dem FlixBus.",
+      lang: "de",
+      start_url: "/",
+      theme_color: "#73d700"
     }
   }
 }
