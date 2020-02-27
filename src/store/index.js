@@ -10,6 +10,7 @@ export const getters = {
         return articles.slice(0).filter(article => !article.attributes.draft).sort((a, b) => a.title > b.title)
     },
     allArticlesFromCity: () => (trip, city) => getters.allArticles().slice(0).filter(article => article.path.startsWith(`/${trip}/${city}`)),
+    singleArticleAsMarkdownFile: () => (trip, city, article) => require(`~/articles/${trip}/${city}/${article}.md`),
     allCities: () => getters.allArticles().slice(0).filter(article => article.path.endsWith(articleForCitySuffix)),
     allTimelineItems: () => [
         {

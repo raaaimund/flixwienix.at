@@ -1,22 +1,12 @@
 <template>
   <v-timeline>
-    <v-timeline-item
-      v-for="(stops, i) in stops"
-      :key="i"
-      :color="stops.color"
-      small
-    >
+    <v-timeline-item v-for="(item, i) in timelineItems" :key="i" :color="item.color" small>
       <template v-slot:opposite>
-        <span
-          :class="`headline font-weight-bold ${stops.color}--text`"
-          v-text="stops.arrivalDate"
-        />
+        <span :class="`headline font-weight-bold ${item.color}--text`" v-text="item.arrivalDate" />
       </template>
       <div class="py-4">
-        <h2
-          :class="`headline font-weight-light mb-4 ${stops.color}--text`"
-        >{{ stops.city }}</h2>
-        <div>{{ stops.description }}</div>
+        <h2 :class="`headline font-weight-light mb-4 ${item.color}--text`">{{ item.city }}</h2>
+        <div>{{ item.description }}</div>
       </div>
     </v-timeline-item>
   </v-timeline>
@@ -25,7 +15,7 @@
 <script>
 export default {
   computed: {
-    stops() {
+    timelineItems() {
       return this.$store.getters.allTimelineItems;
     }
   }

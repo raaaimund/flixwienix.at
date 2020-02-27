@@ -23,3 +23,4 @@ Sorry flixbus guys for using your tile server for my map. Just let me know if I 
 * analytics
 * dive into ssr
 * dive into wcag
+* style

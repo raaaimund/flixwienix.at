@@ -15,9 +15,11 @@
 import { mdiGithubCircle } from "@mdi/js";
 
 export default {
-  data: () => ({
-    svgPath: mdiGithubCircle
-  })
+  data() {
+    return {
+      svgPath: mdiGithubCircle
+    };
+  }
 };
 </script>
 

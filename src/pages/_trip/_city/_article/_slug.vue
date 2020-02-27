@@ -2,7 +2,12 @@
   <v-container>
     <v-row>
       <v-col cols="12" sm="4" md="3">
-        <ArticleMenu sub-title="Artikel" :selected-trip="trip" :selected-city="city" :selected-article="article" />
+        <ArticleMenu
+          sub-title="Artikel"
+          :selected-trip="trip"
+          :selected-city="city"
+          :selected-article="article"
+        />
       </v-col>
       <v-col cols="12" sm="8" md="9">
         <component :is="content" />
@@ -18,7 +23,7 @@ export default {
   components: {
     ArticleMenu
   },
-  data: function() {
+  data() {
     return {
       attributes: [],
       content: null,
@@ -28,7 +33,11 @@ export default {
     };
   },
   created() {
-    const markdown = require(`~/articles/${this.$route.params.trip}/${this.$route.params.city}/${this.$route.params.article}.md`);
+    const markdown = this.$store.getters.singleArticleAsMarkdownFile(
+      this.$route.params.trip,
+      this.$route.params.city,
+      this.$route.params.article
+    );
     this.attributes = markdown.attributes;
     this.content = markdown.vue.component;
   },

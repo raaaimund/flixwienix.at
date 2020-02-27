@@ -21,7 +21,7 @@ export default {
       required: true
     }
   },
-  data: function() {
+  data() {
     return {
       tileLayerUrl: "https://tile-server.flixbus.io/tile/{z}/{x}/{y}.png",
       tileLayerAttribution:

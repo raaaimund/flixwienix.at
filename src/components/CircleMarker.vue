@@ -46,7 +46,7 @@ export default {
       required: true
     }
   },
-  data: () => {
+  data() {
     return {
       radius: 8,
       fillColor: markerColors.fill,
