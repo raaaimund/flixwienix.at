@@ -1,5 +1,5 @@
 <template>
-  <v-navigation-drawer v-model="navigationDrawerVisibility" app absolute>
+  <v-navigation-drawer v-model="navigationDrawerVisibility" app>
     <v-list-item>
       <v-list-item-content>
         <v-list-item-title class="title">FLIXwienix</v-list-item-title>
