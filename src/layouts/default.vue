@@ -17,13 +17,3 @@ export default {
   components: { AppBar, NavigationDrawer }
 };
 </script>
-
-<style>
-h1 {
-  margin-bottom: 25px;
-}
-
-h2 {
-  margin-bottom: 18px;
-}
-</style>

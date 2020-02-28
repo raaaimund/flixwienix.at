@@ -7,6 +7,7 @@
 
 <script>
 export default {
+  name: "ChipWithNumber",
   props: {
     text: {
       type: String,

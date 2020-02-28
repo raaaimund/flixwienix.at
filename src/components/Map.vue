@@ -12,6 +12,7 @@
 <script>
 import MapFlixbusTileLayer from "~/components/MapFlixbusTileLayer.vue";
 export default {
+  name: "Map",
   components: {
     MapFlixbusTileLayer
   },
@@ -28,7 +29,7 @@ export default {
 };
 </script>
 
-<style>
+<style scoped>
 .map-container {
   height: calc(100vh - 64px);
   width: 100%;

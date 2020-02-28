@@ -15,7 +15,7 @@ Die Strecke von Kraków nach Berlin ist nicht gerade so ganz geeignet um voll au
 
 ## Schlafen
 
-Im <a href="https://www.flixbus.at/" target="_blank">FLIX BUS</a> hab ich Hugo aus Brasilien kennengelernt, der über <a href="https://www.hostelworld.com/" target="_blank">Hostelworld</a> ein Bett für **12 €** im <a href="https://ip-hostel.com/" target="_blank">Industriepalast</a> bekommen hat. Also gibt es hier in Berlin anscheinend auch recht preiswerte Plätze für eine oder auch mehrere Übernachtungen. Ich glaub, na ... ich weiss, ich hatte den besten Host von Berlin und ohne die geilen vielen Tipps, hätt ich hier nicht so viel Inhalt für Berlin. Oke viel ist vielleicht übertrieben, aber für 2 Tage Berlin ist das ganz oke glaub ich. Also <a href="" target="_blank">Couchsurfing</a> hat sich wieder einmal total ausgezahlt.
+Im <a href="https://www.flixbus.at/" target="_blank">FlixBus</a> hab ich Hugo aus Brasilien kennengelernt, der über <a href="https://www.hostelworld.com/" target="_blank">Hostelworld</a> ein Bett für **12 €** im <a href="https://ip-hostel.com/" target="_blank">Industriepalast</a> bekommen hat. Also gibt es hier in Berlin anscheinend auch recht preiswerte Plätze für eine oder auch mehrere Übernachtungen. Ich glaub, na ... ich weiss, ich hatte den besten Host von Berlin und ohne die geilen vielen Tipps, hätt ich hier nicht so viel Inhalt für Berlin. Oke viel ist vielleicht übertrieben, aber für 2 Tage Berlin ist das ganz oke glaub ich. Also <a href="" target="_blank">Couchsurfing</a> hat sich wieder einmal total ausgezahlt.
 
 <BaseImage src="berlin/berlin-2.jpg" class="mb-5" />
 

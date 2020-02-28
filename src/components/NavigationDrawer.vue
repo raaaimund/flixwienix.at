@@ -25,6 +25,7 @@
 
 <script>
 export default {
+  name: "NavigationDrawer",
   data() {
     return {
       items: [

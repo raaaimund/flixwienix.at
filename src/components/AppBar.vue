@@ -15,6 +15,7 @@
 import { mapMutations } from "vuex";
 
 export default {
+  name: "AppBar",
   methods: {
     ...mapMutations(["toggleNavigationDrawerVisibility"])
   }

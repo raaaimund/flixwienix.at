@@ -27,7 +27,7 @@ const markerColors = {
   fillOnMouseOver: "orange"
 };
 export default {
-  name: "CircleMarker",
+  name: "MapCircleMarker",
   props: {
     latlng: {
       type: Number[2],

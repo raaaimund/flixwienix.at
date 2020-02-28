@@ -17,6 +17,7 @@ import { createNamespacedHelpers } from "vuex";
 
 const { mapGetters } = createNamespacedHelpers("timeline");
 export default {
+  name: "TripTimeline",
   computed: {
     ...mapGetters(["allItems"])
   }

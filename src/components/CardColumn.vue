@@ -6,6 +6,7 @@
 
 <script>
 export default {
+  name: "CardColumn",
   props: {
     sm: {
       type: Number,

@@ -22,7 +22,7 @@ import { createNamespacedHelpers } from "vuex";
 
 const { mapGetters } = createNamespacedHelpers("articles");
 export default {
-  layout: "default",
+  name: "Article",
   components: {
     ArticleMenu
   },
@@ -54,3 +54,13 @@ export default {
   }
 };
 </script>
+
+<style>
+h1 {
+  margin-bottom: 25px;
+}
+
+h2 {
+  margin-bottom: 18px;
+}
+</style>

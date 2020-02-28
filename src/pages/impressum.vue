@@ -22,7 +22,6 @@
 
 <script>
 export default {
-  name: "Impressum",
-  layout: "default"
+  name: "Impressum"
 };
 </script>

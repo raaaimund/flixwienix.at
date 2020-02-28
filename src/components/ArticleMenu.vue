@@ -16,6 +16,7 @@ import { createNamespacedHelpers } from "vuex";
 
 const { mapGetters } = createNamespacedHelpers("articles");
 export default {
+  name: "ArticleMenu",
   props: {
     subTitle: {
       type: String,

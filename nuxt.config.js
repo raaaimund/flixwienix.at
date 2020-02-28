@@ -64,7 +64,8 @@ export default {
       description: "Ein kleiner Blog über eine kleine Reise mit dem FlixBus.",
       lang: "de",
       start_url: "/",
-      theme_color: "#73d700"
+      theme_color: "#73d700",
+      background_color: "#73d700"
     }
   }
 }
