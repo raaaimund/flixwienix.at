@@ -46,7 +46,7 @@ export default {
       required: true
     }
   },
-  data() {
+  data: function() {
     return {
       radius: 8,
       fillColor: markerColors.fill,
@@ -62,17 +62,17 @@ export default {
     };
   },
   methods: {
-    onMouseOver: function(event) {
+    onMouseOver(event) {
       this.radius = this.radius * 1.4;
       this.strokeWeight = this.strokeWeight * 1.4;
       this.fillColor = markerColors.fillOnMouseOver;
     },
-    onMouseOut: function(event) {
+    onMouseOut(event) {
       this.radius = 8;
       this.strokeWeight = 1;
       this.fillColor = markerColors.fill;
     },
-    onClick: function(event) {
+    onClick(event) {
       this.$router.push({
         path: this.path
       });

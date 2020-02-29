@@ -15,7 +15,6 @@
 import MapCircleMarker from "~/components/MapCircleMarker.vue";
 import Map from "~/components/Map.vue";
 import { createNamespacedHelpers } from "vuex";
-
 const { mapGetters } = createNamespacedHelpers("articles");
 export default {
   name: "Index",

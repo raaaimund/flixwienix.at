@@ -13,7 +13,6 @@
 
 <script>
 import { createNamespacedHelpers } from "vuex";
-
 const { mapGetters } = createNamespacedHelpers("articles");
 export default {
   name: "ArticleMenu",

@@ -14,9 +14,10 @@ export const getters = {
         }));
         return articles.slice(0).filter(article => !article.attributes.draft)
     },
-    allArticlesFromCity: () => (trip, city) => getters.allArticles().slice(0)
-        .filter(article => article.path.startsWith(`/${trip}/${city}`))
-        .sort((a, b) => sortStringsDesc(a.attributes.title, b.attributes.title)),
+    allArticlesFromCity: () => (trip, city) =>
+        getters.allArticles().slice(0)
+            .filter(article => article.path.startsWith(`/${trip}/${city}`))
+            .sort((a, b) => sortStringsDesc(a.attributes.title, b.attributes.title)),
     singleArticleAsMarkdownFile: () => (trip, city, article) => require(`~/articles/${trip}/${city}/${article}.md`),
     allCities: () => getters.allArticles().slice(0).filter(article => article.path.endsWith(articleForCitySuffix))
 }

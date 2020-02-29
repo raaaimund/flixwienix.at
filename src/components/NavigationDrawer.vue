@@ -26,7 +26,7 @@
 <script>
 export default {
   name: "NavigationDrawer",
-  data() {
+  data: function() {
     return {
       items: [
         { title: "Nach Paris", icon: "mdi-map", path: "/" },
@@ -44,7 +44,7 @@ export default {
         return this.$store.state.isNavigationDrawerVisible;
       },
       set(visibility) {
-        this.$store.commit("setNavigationDrawerVisibility", visibility)
+        this.$store.commit("setNavigationDrawerVisibility", visibility);
       }
     }
   }

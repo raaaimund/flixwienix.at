@@ -5,7 +5,7 @@
 <script>
 export default {
   name: "MapFlixbusTileLayer",
-  data() {
+  data: function() {
     return {
       tileLayerUrl: "https://tile-server.flixbus.io/tile/{z}/{x}/{y}.png",
       tileLayerAttribution:

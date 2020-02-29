@@ -15,9 +15,6 @@ Sorry FlixBus guys for using your tile server for my map. Just let me know if I 
 
 ## ToDo
 
-* dive into ssr
-* dive into wcag
-* style
 * typescript
 * seo
 * cookie consent

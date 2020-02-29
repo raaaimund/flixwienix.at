@@ -19,14 +19,13 @@
 <script>
 import ArticleMenu from "~/components/ArticleMenu.vue";
 import { createNamespacedHelpers } from "vuex";
-
 const { mapGetters } = createNamespacedHelpers("articles");
 export default {
   name: "Article",
   components: {
     ArticleMenu
   },
-  data() {
+  data: function() {
     return {
       attributes: [],
       content: null,
