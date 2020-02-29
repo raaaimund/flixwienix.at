@@ -34,8 +34,15 @@ export default {
       article: this.$route.params.article
     };
   },
+  validate({ params, store }) {
+    return store.getters["articles/articleExists"](
+      params.trip,
+      params.city,
+      params.article
+    ).length;
+  },
   computed: {
-    ...mapGetters(["singleArticleAsMarkdownFile"])
+    ...mapGetters(["singleArticleAsMarkdownFile", "articleExists"])
   },
   created() {
     const markdown = this.singleArticleAsMarkdownFile(

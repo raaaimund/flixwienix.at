@@ -1,10 +1,4 @@
-const articleForCitySuffix = "/index";
-const sortStringsDesc = (a, b) => {
-    if (a < b) return -1;
-    if (b > a) return 1;
-    return 0;
-}
-
+const sortStringsDesc = (a, b) => a < b ? -1 : b > a ? 1 : 0
 export const getters = {
     allArticles: () => {
         const articleContexts = require.context("~/articles/", true, /\.md$/);
@@ -12,12 +6,14 @@ export const getters = {
             attributes: articleContexts(key).attributes,
             path: `/${key.replace(".md", "").replace("./", "")}`
         }));
-        return articles.slice(0).filter(article => !article.attributes.draft)
+        return articles.filter(article => !article.attributes.draft)
     },
-    allArticlesFromCity: () => (trip, city) =>
-        getters.allArticles().slice(0)
-            .filter(article => article.path.startsWith(`/${trip}/${city}`))
-            .sort((a, b) => sortStringsDesc(a.attributes.title, b.attributes.title)),
     singleArticleAsMarkdownFile: () => (trip, city, article) => require(`~/articles/${trip}/${city}/${article}.md`),
-    allCities: () => getters.allArticles().slice(0).filter(article => article.path.endsWith(articleForCitySuffix))
+    articleExists: () => (trip, city, article) => getters.allArticles()
+        .filter(a => a.path.startsWith(`/${trip}/${city}/${article}`)),
+    allArticlesFromCity: () => (trip, city) => getters.allArticles()
+        .filter(article => article.path.startsWith(`/${trip}/${city}`))
+        .sort((a, b) => sortStringsDesc(a.attributes.title, b.attributes.title)),
+    allCities: () => getters.allArticles()
+        .filter(article => article.path.endsWith("/index"))
 }
