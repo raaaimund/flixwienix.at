@@ -2,7 +2,7 @@
   <v-card max-width="344" outlined>
     <v-card-title>{{ title }}</v-card-title>
     <v-card-subtitle>{{ subtitle }}</v-card-subtitle>
-    <v-card-text class="text--primary">{{ description}}</v-card-text>
+    <v-card-text class="text--primary">{{ description }}</v-card-text>
     <v-card-actions>
       <v-chip color="primary">{{ tag }}</v-chip>
       <v-row align="center" justify="end">

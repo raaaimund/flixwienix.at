@@ -45,10 +45,9 @@ export default {
       );
     },
     indexOfSelectedArticle() {
-      return this.allArticlesFromCity(
-        this.$props.selectedTrip,
-        this.$props.selectedCity
-      ).findIndex(file => file.path.endsWith(this.selectedArticle));
+      return this.articles.findIndex(file =>
+        file.path.endsWith(this.selectedArticle)
+      );
     }
   }
 };

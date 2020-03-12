@@ -18,8 +18,6 @@
 
 <script>
 import ArticleMenu from "~/components/ArticleMenu.vue";
-import { createNamespacedHelpers } from "vuex";
-const { mapGetters } = createNamespacedHelpers("articles");
 export default {
   name: "Article",
   components: {
@@ -41,15 +39,8 @@ export default {
       params.article
     ).length;
   },
-  computed: {
-    ...mapGetters(["singleArticleAsMarkdownFile", "articleExists"])
-  },
   created() {
-    const markdown = this.singleArticleAsMarkdownFile(
-      this.$route.params.trip,
-      this.$route.params.city,
-      this.$route.params.article
-    );
+    const markdown = require(`~/articles/${this.$route.params.trip}/${this.$route.params.city}/${this.$route.params.article}.md`);
     this.attributes = markdown.attributes;
     this.content = markdown.vue.component;
   },
