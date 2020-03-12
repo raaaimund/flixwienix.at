@@ -2,11 +2,13 @@
   <v-list>
     <v-subheader>{{ subTitle }}</v-subheader>
     <v-list-item-group :value="indexOfSelectedArticle" color="primary">
-      <v-list-item v-for="(item, i) in articles" :key="i" :href="item.path">
-        <v-list-item-content>
-          <v-list-item-title v-text="item.attributes.title" />
-        </v-list-item-content>
-      </v-list-item>
+      <nuxt-link v-for="(item, i) in articles" :key="i" :to="item.path">
+        <v-list-item>
+          <v-list-item-content>
+            <v-list-item-title v-text="item.attributes.title" />
+          </v-list-item-content>
+        </v-list-item>
+      </nuxt-link>
     </v-list-item-group>
   </v-list>
 </template>
@@ -51,3 +53,10 @@ export default {
   }
 };
 </script>
+
+<style scoped>
+.v-application a {
+  color: none;
+  text-decoration: none;
+}
+</style>
