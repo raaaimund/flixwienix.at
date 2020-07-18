@@ -10,14 +10,14 @@
     "dependencies": {
         "@nuxtjs/pwa": "^3.0.0-beta.20",
         "leaflet": "^1.6.0",
-        "nuxt": "^2.11.0",
-        "vue2-leaflet": "^2.4.3"
+        "nuxt": "^2.13.3",
+        "vue2-leaflet": "^2.5.2"
     },
     "devDependencies": {
-        "@mdi/js": "^4.9.95",
-        "@nuxtjs/vuetify": "^1.10.3",
-        "eslint": "^6.8.0",
-        "eslint-plugin-vue": "^6.1.2",
-        "frontmatter-markdown-loader": "^3.1.0"
+        "@mdi/js": "^5.3.45",
+        "@nuxtjs/vuetify": "^1.11.2",
+        "eslint": "^7.4.0",
+        "eslint-plugin-vue": "^6.2.2",
+        "frontmatter-markdown-loader": "^3.6.0"
     }
 }

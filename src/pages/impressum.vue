@@ -6,10 +6,10 @@
       <a
         href="https://flixbus.at"
         target="_blank"
-      >FlixBus</a> und eigentlich hab ich die Seite nur erstellt, um ein bisschen Vue und Nuxt auszuprobieren und um etwas zu lernen bzw. endlich einmal etwas damit zu machen.
+      >FlixBus</a>. Die Seite wurde erstellt, um ein wenig Vue und Nuxt auszuprobieren und um etwas darüber zu lernen.
     </p>
-    <p>Ich: Raimund Rittnauer</p>
-    <p>Email: raimund[at]rittnauer.at</p>
+    <p>Raimund Rittnauer</p>
+    <p>raimund[at]rittnauer.at</p>
     <p>
       Source Code gibt es auf
       <a

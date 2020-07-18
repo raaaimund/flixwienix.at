@@ -2,9 +2,9 @@
   <v-app>
     <NavigationDrawer />
     <AppBar />
-    <v-content>
+    <v-main>
       <nuxt />
-    </v-content>
+    </v-main>
   </v-app>
 </template>
 
