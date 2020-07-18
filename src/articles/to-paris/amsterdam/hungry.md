@@ -4,10 +4,7 @@ title: Hongerig
 
 # Mmmh Lekker
 
-Hier ein paar Optionen, wo man bissl was zum Essen bekommt. **Albert Heijn** is auf alle Fälle mal einen Besucht wert, damit man sieht, was die Holländer so einkaufen. Es war ziemlich schräg, dass hier echt echt echt viel in Plastik verpackt wird, sogar einzelne Paprika und auch, dass das Gemüse ständig mit Wasserdampf besprüht wird.
-
-<BaseImage src="amsterdam/albert-heijn-1.jpg" class="mb-5" />
-<BaseImage src="amsterdam/ten-kate-market-1.jpg" class="mb-5" />
+Hier ein paar Optionen, wo man bissl was zum Essen bekommt. **Albert Heijn** is auf alle Fälle mal einen Besucht wert. Keine Ahnung warum, aber ich geh echt gern, wenn ich irgendwo anders bin, durch Supermärkte und schau mir die in aller Ruhe an. Es war ziemlich schräg, dass hier echt, echt, echt viel in Plastik verpackt wird, sogar einzelne Paprika und auch, dass das Gemüse ständig mit Wasserdampf besprüht wird.
 
 <CardContainer>
     <CardColumn>
@@ -24,7 +21,7 @@ Hier ein paar Optionen, wo man bissl was zum Essen bekommt. **Albert Heijn** is 
             subtitle="Baarsjesweg 302, 1058 AH Amsterdam" 
             link="https://goo.gl/maps/Ha42fudBjypBD5Ak6"
             tag="Latte 3 €"
-            description="Hier kommen echt viele leute her um zu arbeiten oder zu lernen. Wenn man nen Platz auf der Ledercouch habn möchte, dann is fix besser, wenn man echt früh hin schaut. Das Kaffee hat eh scho ab 07:00 Uhr offen und man kann dort ungestört den ganzen Tag verbringen. Es gibt auch gratis Wasser, Strom und WLAN und sau freundliche Mitarbeiter. Ich würd auf alle Fälle die Açaí Bowl probieren." />
+            description="Hier kommen echt viele leute her um zu arbeiten oder zu lernen. Wenn man nen Platz auf der Ledercouch habn möchte, dann is fix besser, wenn man echt früh hin schaut. Das Kaffee hat eh scho ab 07:00 Uhr offen und man kann dort ungestört den ganzen Tag verbringen. Es gibt auch gratis Wasser, Strom und WLAN und sau freundliche Mitarbeiter. Ich würd auf alle Fälle die Açaí Bowl probieren, wenn auch recht teuer." />
     </CardColumn>
     <CardColumn>
         <LocationCard 
@@ -43,3 +40,6 @@ Hier ein paar Optionen, wo man bissl was zum Essen bekommt. **Albert Heijn** is 
             description="So n kleiner Bauernmarkt mit geilem Essen. Hat aber halt nur am Samstag offen." />
     </CardColumn>
 </CardContainer>
+
+<BaseImage src="amsterdam/albert-heijn-1.jpg" class="mb-5" />
+<BaseImage src="amsterdam/ten-kate-market-1.jpg" class="mb-5" />

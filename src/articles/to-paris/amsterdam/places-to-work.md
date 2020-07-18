@@ -4,7 +4,7 @@ title: Plaats om te werken
 
 # Werken, werken
 
-Hab in Amsterdam jetzt nicht so viele Plätze ausprobiert, da ich drei Tage lang im <a href="https://goo.gl/maps/MWdFgz2P92yU2Gbz5" target="_blank">Coffee & Juices</a> gearbeitet hab. Dort gibts echt guten Kaffee, eine sau gemütliche Ledercouch und eine echt echt geile und sättigende Açaí Bowl. Hugo aus Brasilien hat mir von der <a href="https://en.wikipedia.org/wiki/A%C3%A7a%C3%AD_palm" target="_blank">Açaí Palme</a> und der Frucht davon erzählt und ja ... dann sitz ich in dem Kaffee und seh, dass es hier so n Müsli mit Açaí gibt.
+Hab in Amsterdam jetzt nicht so viele Plätze ausprobiert, da ich drei Tage lang im <a href="https://goo.gl/maps/MWdFgz2P92yU2Gbz5" target="_blank">Coffee & Juices</a> gearbeitet hab. Dort gibts echt guten Kaffee, eine sau gemütliche Ledercouch und eine echt echt geile Açaí Bowl. Hugo aus Brasilien hat mir von der <a href="https://en.wikipedia.org/wiki/A%C3%A7a%C3%AD_palm" target="_blank">Açaí Palme</a> und der Frucht davon erzählt und ja ... dann sitz ich in dem Kaffee und seh, dass es hier so n Müsli mit Açaí gibt.
 
 <CardContainer>
     <CardColumn>
@@ -21,6 +21,6 @@ Hab in Amsterdam jetzt nicht so viele Plätze ausprobiert, da ich drei Tage lang
             subtitle="De Boelelaan 1105, 1081 HV Amsterdam" 
             link="https://goo.gl/maps/uUCVSTbdzJCUXcbi8"
             tag="Uni"
-            description="In der Uni gibts ur viele kleine Lernecken, Strom und natürlich das wichtigste - eduroam. Auch der Stadtteil Zuidas, in welcher die Universität liegt ist es auf alle Fälle wert, dass man den mal besucht - total anders, total neu. Ach ja hier in der Uni gibt es ur viele Mäuse. Vor allem am Abend sieht man die im Foyer herumlaufen." />
+            description="In der Uni gibts ur viele kleine Lernecken, Strom und natürlich das wichtigste - eduroam. Auch der Stadtteil Zuidas, in welcher die Universität liegt ist es auf alle Fälle wert, dass man den mal besucht - total anders, total neu und echt hoch. Ach ja hier in der Uni gibt es ur viele Mäuse. Vor allem am Abend sieht man die im Foyer herumlaufen." />
     </CardColumn>
 </CardContainer>
