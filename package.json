@@ -9,6 +9,7 @@
     },
     "dependencies": {
         "@nuxtjs/pwa": "^3.0.0-beta.20",
+        "@nuxtjs/sitemap": "^2.4.0",
         "leaflet": "^1.6.0",
         "nuxt": "^2.13.3",
         "vue2-leaflet": "^2.5.2"
