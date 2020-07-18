@@ -4,9 +4,7 @@ title: Huuuunger
 
 # Huuuunger
 
-Am allergeilsten find ich war der Bauernmarkt. Leider waren am Markt ned ganz sooo viele Bauern, aber dafür dieses kleine gelbe <a href="https://kio-trunk.com/" target="_blank">Kvass Mobil</a>. Sooo geil, dass es da einfach n Kvass Standl gibt und dann auch noch so nen geiln selbstgmachtn Kvass.
-
-<BaseImage src="berlin/berlin-4.jpg" class="mb-5" />
+Am allergeilsten find ich war der Bauernmarkt. Dort gabs auch ein kleines gelbes <a href="https://kio-trunk.com/" target="_blank">Kvass Mobil</a>. Echt guter Kvass.
 
 <CardContainer>
     <CardColumn>
@@ -15,7 +13,7 @@ Am allergeilsten find ich war der Bauernmarkt. Leider waren am Markt ned ganz so
             subtitle="Goethestraße 5, 10623 Berlin, Germany" 
             link="https://goo.gl/maps/5qBhTBSUk7xLGqec6"
             tag="Indisch/Veg"
-            description="Uuuuur geiles indisches, vegetarisches Essen. Also würd ich in Berlin wohnen, dann würd ich mich bei Satyam echt von oben bis unten durchkosten." />
+            description="Uuuuur geiles indisches, vegetarisches Essen." />
     </CardColumn>
     <CardColumn>
         <LocationCard 
@@ -23,7 +21,7 @@ Am allergeilsten find ich war der Bauernmarkt. Leider waren am Markt ned ganz so
             subtitle="Lübbener Str. 5-15, 10997 Berlin, Germany" 
             link="https://goo.gl/maps/Y2uga2xqGwXQ6NoS8"
             tag="Markt"
-            description="Ein echt, echt sau geiler und echt riesiger Markt. Ohne nem Tipp von meinem Host wär ich hier nie vorbeigelaufen. Total geil zum einfach mal ur langsam durchschlendern. Leider nur am Dienstag, Freitag und Samstag offen, aber hier gibt's so viele verschiedene und sau gute Sachen. Das allergeilste ist wie schon gesagt das kleine gelbe Kvass Mobil, das kann man echt mal auschecken." />
+            description="Ein echt, echt geiler und echt riesiger Markt. Ohne nem Tipp von meinem Host wär ich hier nie vorbeigelaufen. Leider nur am Dienstag, Freitag und Samstag offen, aber hier gibt's so viele verschiedene und echt gute Sachen. Das allergeilste ist wie schon gesagt das kleine gelbe Kvass Mobil." />
     </CardColumn>
     <CardColumn>
         <LocationCard 
@@ -31,6 +29,8 @@ Am allergeilsten find ich war der Bauernmarkt. Leider waren am Markt ned ganz so
             subtitle="Eisenbahnstraße 42/43, 10997 Berlin, Germany" 
             link="https://goo.gl/maps/r8EVEFhdQW5kj2yB8"
             tag="Markt"
-            description="Fette Halle. Hier hab ich das erste mal diese Urkarotte gesehen und gekauft. Ansonsten gibt's auch so Fertigzeugs zum dort essen und echt viel Gemüse aus dem Schwarzwald." />
+            description="Fette Halle. Ansonsten gibt's auch so Fertigzeugs zum dort essen und echt viel Gemüse aus dem Schwarzwald." />
     </CardColumn>
 </CardContainer>
+
+<BaseImage src="berlin/berlin-4.jpg" class="mb-5" />

@@ -4,7 +4,7 @@ title: Arbeit, Arbeit
 
 # Arbeit, Arbeit
 
-Oke also in Berlin gibt es echt sau viele gschmeidige Kaffees zum runterkommen und um für ein paar Stunden in die Arbeit einzutauchen und einen echt supergeilen Ort und zwar das <a href="https://goo.gl/maps/44B6BHv1X43iTpZy6" target="_blank">Quartier Zukunft</a> der Deutschen Bank. Ich Depp hab immer nach Kaffees gesucht, aber eigentlich hätt ich anscheinend nach Banken ausschau halten sollen.
+Oke also in Berlin gibt es echt sau viele Kaffees zum runterkommen und um für ein paar Stunden in die Arbeit einzutauchen und einen echt supergeilen Ort und zwar das <a href="https://goo.gl/maps/44B6BHv1X43iTpZy6" target="_blank">Quartier Zukunft</a> der Deutschen Bank. Ich hab immer nach Kaffees gesucht, aber eigentlich hätt ich anscheinend nach Banken ausschau halten sollen.
 
 <CardContainer>
     <CardColumn>
@@ -21,7 +21,7 @@ Oke also in Berlin gibt es echt sau viele gschmeidige Kaffees zum runterkommen u
             subtitle="Schlüterstraße 12, 10625 Berlin, Germany" 
             link="https://g.page/reehamcoffee?share"
             tag="Latte ca. 3 €"
-            description="Hinten in der Ecke gibt es zwei riesige Sessel in denen man total abtauchen und lostippen kann. Dazu gibt es hier auch echt geiles Essen und total freundliche Mitarbeiter." />
+            description="Hinten in der Ecke gibt es zwei riesige Sessel in denen man total abtauchen und lostippen kann. Dazu gibt es hier auch echt geiles Essen." />
     </CardColumn>
     <CardColumn>
         <LocationCard 
@@ -37,6 +37,6 @@ Oke also in Berlin gibt es echt sau viele gschmeidige Kaffees zum runterkommen u
             subtitle="Zossener Str. 34, 10961 Berlin, Germany" 
             link="https://goo.gl/maps/nxLAw52ghNjCTkGJ6"
             tag="Latte ca. 2.9 €"
-            description="Hier gibts zwar leider keine chilligen Ecken um sich dort voll gehen zu lassen, aber trotzdem ein echt sau liebes Kaffee." />
+            description="Hier gibts zwar leider keine ganz so chilligen Ecken um sich dort voll gehen zu lassen, aber trotzdem ein echt nettes Kaffee." />
     </CardColumn>
 </CardContainer>
