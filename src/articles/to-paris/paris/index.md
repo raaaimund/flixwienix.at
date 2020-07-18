@@ -9,7 +9,7 @@ icon: mdi-city
 
 # Bonjour Paris!
 
-Das ging echt schnell. Irgendwie bin ich grad erst von Wien losgefahren und irgendwie eigentlich doch nicht, aber irgendwie doch schon. Zumindest fühlt es sich gerade so an. Das Wetter bei der Ankunft hier in Paris ist auf alle Fälle schon einmal das Beste im Vergleich zu den anderen Städten. Es ist nicht so kalt und auch nicht so extrem Windig. Schon etwas kalt, aber trotzdem echt sehr angenehm warm. Hier in Paris wird es auf alle Fälle etwas anders. In in paar Stunden treffen wir erst einmal den **Bernd** und dann kommen noch ein paar Freunde mit dem Geburtstagskind nach, die inzwischen wahrscheinlich auch schon weiß, dass Sie ihren Geburtstag in Paris verbringen wird. Aber zerst mal zum 324 Meter hohen **Tour de Eiffel** und ein **Beignet mit Nutella** zum Frühstück.
+Das ging jetzt schon echt schnell. Irgendwie bin ich grad erst von Wien losgefahren und irgendwie eigentlich doch nicht, aber irgendwie schon. Zumindest fühlt es sich gerade so an. Das Wetter bei der Ankunft hier in Paris ist schon einmal das Beste im Vergleich zu den anderen Städten. Es ist nicht so kalt und auch nicht so extrem Windig. Hier in Paris wird es auf alle Fälle etwas anders. In ein paar Stunden treffen wir erst einmal den **Bernd** und dann kommen noch ein paar Freunde mit dem Geburtstagskind nach, die inzwischen wahrscheinlich auch schon weiß, dass Sie ihren Geburtstag in Paris verbringen wird. Aber zerst mal zum 324 Meter hohen **Tour de Eiffel** und ein **Beignet mit Nutella** zum Frühstück.
 
 <BaseImage src="paris/tour-de-eiffel-2.jpg" alt="Tour de Eiffel" class="mb-5" />
 
