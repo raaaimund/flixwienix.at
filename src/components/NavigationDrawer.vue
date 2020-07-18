@@ -3,7 +3,6 @@
     <v-list-item>
       <v-list-item-content>
         <v-list-item-title class="title">FLIXwienix</v-list-item-title>
-        <v-list-item-subtitle>nach Paris</v-list-item-subtitle>
       </v-list-item-content>
     </v-list-item>
 

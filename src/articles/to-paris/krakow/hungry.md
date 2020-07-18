@@ -12,8 +12,8 @@ Hier ein paar polnische Restaurants und Märkte.
             title="Okrąglak (Zapiekanki)" 
             subtitle="Estery 46, 31-056 Kraków, Poland" 
             link="https://goo.gl/maps/bKEt77y5uUNDfnXy9"
-            tag="Polski ab 1,50 €"
-            description="Hier gibts einen Zapiekanki Stand nach dem anderen, welcher eeeecht fette Sandwiches verkauft. Aufs Zapiekanki kommt oft irgendwas drauf, das sich wie n Pizzabelag anhört. Auf alle Fälle echt billig und total ... fett. Hier gibts ab und zu auch ein paar Standln, welche ältere Sachen wie auf nem Flohmarkt verkaufen" />
+            tag="Polski"
+            description="Hier gibts einen Zapiekanki Stand nach dem anderen, welcher schon sehr fette Sandwiches verkauft. Aufs Zapiekanki kommt oft irgendwas drauf, das sich wie n Pizzabelag anhört. Auf alle Fälle echt sättigend. Hier gibts ab und zu auch einen Flohmarkt." />
     </CardColumn>
     <CardColumn>
         <LocationCard 
@@ -21,7 +21,7 @@ Hier ein paar polnische Restaurants und Märkte.
             subtitle="Grodzka 43, 31-001 Kraków, Poland" 
             link="https://goo.gl/maps/S11xW5K97bWQx9wp8"
             tag="Polski"
-            description="Billiges und geiles polnisches Essen." />
+            description="Günstiges und echt gutes polnisches Essen." />
     </CardColumn>
     <CardColumn>
         <LocationCard 
@@ -29,7 +29,7 @@ Hier ein paar polnische Restaurants und Märkte.
             subtitle="Czysta 1, 31-121 Kraków, Poland" 
             link="https://goo.gl/maps/KKF8yayeSWxiXxEA7"
             tag="Polski"
-            description="Hier gibts auch echt gutes polnisches Essen. Vor allem auch beliebt bei Studenten und für ein paar Pierogi ist ein Besuch auf alle Fälle wert!" />
+            description="Hier gibts auch echt gutes polnisches Essen. Anscheinend auch beliebt bei Studenten und für ein paar Pierogi ist ein Besuch auf alle Fälle wert!" />
     </CardColumn>
     <CardColumn>
         <LocationCard 
