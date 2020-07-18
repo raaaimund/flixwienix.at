@@ -9,11 +9,11 @@ icon: mdi-city
 
 # Tschau Wien!
 
-Tschau Wien und tschau Vienna International Busterminal. Jetzt geht's mal nach Paris. Zwar nicht ganz so schnell, aber dafür ziemlich FLIX und wenn man schon mal mit dem Bus unterwegs ist, kann man sich ja ein paar Sachen am Weg dort hin anschauen. So wie so eine Hop-On Hop-Off Tour, nur halt von Wien nach Paris und a bissl länger, dafür aber zum selben Preis.
+Tschau Wien und tschau Vienna International Busterminal. Jetzt geht's mal nach Paris. Zwar nicht ganz so schnell, aber dafür ziemlich FLIX und wenn man schon mal mit dem Bus unterwegs ist, kann man sich ja ein paar Sachen am Weg dort hin anschauen. So wie eine Hop-On Hop-Off Tour, nur halt von Wien nach Paris und bisschen länger, dafür aber zum selben Preis.
 
-Also nutzen wir die FLIXibilität von dieser Busreise total aus und fahren zuerst einaml nach **Kraków**. In Kraków gibt es erst einmal eine dreitägige Erholung und dann geht's weiter nach **Berlin**. Für Berlin sind zwei Tage Erholung geplant und danach geht es natürlich zu unserem letzten Zwischenstopp und zwar nach **Amsterdam**. Dort werden wir uns ein paar Tage von den stressigen Busfahrten und Arbeitstagen erholen und dann weiter nach Paris reisen. Für die Rückreise hab ich grad irgendwie noch überhaupt keinen Plan. Vielleicht über Italien, dann wär das voll rund herum um Österreich.
+Also nutzen wir die FLIXibilität von dieser Busreise und fahren allererst nach <nuxt-link to="/to-paris/krakow/index">Kraków</nuxt-link>. Nach einem dreitägigen Aufenthalt in Kraków geht es weiter nach <nuxt-link to="/to-paris/berlin/index">Berlin</nuxt-link>. Für Berlin sind zwei Tage Erholung geplant und danach geht es zum letzten Zwischenstopp und zwar nach <nuxt-link to="/to-paris/amsterdam/index">Amsterdam</nuxt-link>. Dort werden wir uns ein paar Tage von den Busfahrten und Arbeitstagen erholen und dann weiter nach Paris reisen.
 
-Ich find's aber auf alle Fälle echt leiwand, dass du mit kommst. Allein wär die Reise sonst wahrscheinlich echt zach geworden. Also wenn du oben auf "nach Paris" klickst, dann kommst du zu all unseren Zwischenstopps, welche wir bis jetzt schon erreicht haben und hier ist noch mal die Route etwas schöner aufbereitet. Damit du dich auch auskennst wie lange wir wo genau bleiben.
+Aber echt geil, dass du mit kommst. Allein wär die Reise sonst wahrscheinlich echt zach geworden. Also wenn du oben auf "nach Paris" klickst, dann kommst du zu all unseren Zwischenstopps, welche wir bis jetzt schon erreicht haben und hier ist noch mal die Route etwas schöner aufbereitet. Damit du dich auch auskennst wie lange wir wo genau bleiben.
 
 ## Unsere Route
 
