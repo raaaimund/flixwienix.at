@@ -21,11 +21,11 @@ Aber echt geil, dass du mit kommst. Allein wär die Reise sonst wahrscheinlich e
 
 ## Kosten der Fahrten
 
-Eigentlich war geplant das Angebot <a href="https://interflix.flixbus.de/" target="_blank">InterFlix</a> um **99 €** auszuprobieren, aber leider hatte die Seite einen Fehler, weswegen ich kein Ticket kaufn konnte. Die Planung war wieder mal just in time und ich wusste nicht, ob die Tickets eventuell noch teurer werden, wenn ich noch länger warte. Also habe ich die Fahrten einzeln gekauft und in Summe statt den **99 €** für InterFlix ein wenig mehr und zwar **133 €** gezahlt.
+Eigentlich war geplant das Angebot <a href="https://interflix.flixbus.de/" target="_blank">InterFlix</a> um **99 €** auszuprobieren, aber leider hatte die Seite einen Fehler, weswegen ich kein Ticket kaufen konnte. Die Planung war wieder mal just in time und ich wusste nicht, ob die Tickets eventuell noch teurer werden, wenn ich noch länger warte. Also habe ich die Fahrten einzeln gekauft und in Summe statt den **99 €** für InterFlix ein wenig mehr und zwar **133 €** gezahlt.
 
-## Und das nehm ma auf die Reise mit
+## Und das nemen wir auf die Reise mit
 
-<ChipWithNumber text="Kompressionssackerl fürs Gwand" :count="1" />
+<ChipWithNumber text="Kompressionssackerl fürs Gewand" :count="1" />
 <ChipWithNumber text="Lange Unterhose" :count="1" />
 <ChipWithNumber text="Unterhose" :count="3" />
 <ChipWithNumber text="Langes Leiberl" :count="1" />
@@ -59,4 +59,4 @@ Eigentlich war geplant das Angebot <a href="https://interflix.flixbus.de/" targe
 
 ## Aaaaber
 
-Ich muss auf alle Fälle jeden Tag ein paar Stunden Homeoffice oder eher Remoteoffice machen und hier an diesem Blog weiterschreiben. Das wär der Plan, schauen wir mal wie das dann wirklich funktioniert. Zwischendurch können wir auf alle Fälle durch die Stadt flanieren und uns einfach durch die regionale Küche kosten. Aber da gibt's noch eine Sache, welche zu erledigen wäre. Bevor wir hier weiterschreiben können, muss ich den Blog vorallem erst mal fertig coden. Ein Tag vorm Trip hab ich angefangen den Blog zu coden und dann noch mit was ganz neuem, aber darum geht es mir bei dem Blog eigentlich auch. Ich möchte ein wenig in Vue eintauchen und kennenlernen. Ausserdem muss ich jetzt schon mal sagen, dass viele Bilder wahrscheinlich ein bisschen unscharf werden. Mein Handy hat leider nicht gerade die beste Kamera.
+Ich muss auf alle Fälle jeden Tag ein paar Stunden Remoteoffice machen und hier an diesem Blog weiterschreiben. Das wär mal der Plan, schauen wir mal wie das dann wirklich funktioniert. Zwischendurch einfach durch die Stadt treiben lassen und durch die regionalen Küchen kosten. Klingt doch gar nicht mal so schlecht.
