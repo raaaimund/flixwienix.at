@@ -15,6 +15,8 @@ Also nutzen wir die FLIXibilität von dieser Busreise und fahren allererst nach 
 
 Aber echt geil, dass du mit kommst. Allein wär die Reise sonst wahrscheinlich echt zach geworden. Also wenn du oben auf "nach Paris" klickst, dann kommst du zu all unseren Zwischenstopps, welche wir bis jetzt schon erreicht haben und hier ist noch mal die Route etwas schöner aufbereitet. Damit du dich auch auskennst wie lange wir wo genau bleiben.
 
+Ich muss auf alle Fälle jeden Tag ein paar Stunden Remoteoffice machen und hier an diesem Blog weiterschreiben. Das wär mal der Plan, schauen wir mal wie das dann wirklich funktioniert. Zwischendurch einfach durch die Stadt treiben lassen und durch die regionalen Küchen kosten. Klingt doch gar nicht mal so schlecht.   
+
 ## Unsere Route
 
 <TripTimeline class="mt-10 mb-10" />
@@ -56,7 +58,3 @@ Eigentlich war geplant das Angebot <a href="https://interflix.flixbus.de/" targe
 <ChipWithNumber text="Messer" :count="1" color="orange" />
 
 <BaseImage src="vienna/packlist.jpg" alt="gepackte Sachen" />
-
-## Aaaaber
-
-Ich muss auf alle Fälle jeden Tag ein paar Stunden Remoteoffice machen und hier an diesem Blog weiterschreiben. Das wär mal der Plan, schauen wir mal wie das dann wirklich funktioniert. Zwischendurch einfach durch die Stadt treiben lassen und durch die regionalen Küchen kosten. Klingt doch gar nicht mal so schlecht.
